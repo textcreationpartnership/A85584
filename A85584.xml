@@ -1,0 +1,1351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Britans [sic] vote: or, God save King Charles. A treatise seasonably published this 27th. day of March, the happy inauguration of his sacred (though now despised and imprisoned) Maiesty. Wherein is proved by many plaine texts of Scripture, that the resisting, imprisoning, or deposing our King, under what specious pretences soever couched, is not onely unlawfull but damnable.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 118 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85584</idno>
+            <idno type="STC">Wing G1670</idno>
+            <idno type="STC">Thomason E431_26</idno>
+            <idno type="STC">ESTC R202345</idno>
+            <idno type="EEBO-CITATION">99862671</idno>
+            <idno type="PROQUEST">99862671</idno>
+            <idno type="VID">114840</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114840)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E431[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Britans [sic] vote: or, God save King Charles. A treatise seasonably published this 27th. day of March, the happy inauguration of his sacred (though now despised and imprisoned) Maiesty. Wherein is proved by many plaine texts of Scripture, that the resisting, imprisoning, or deposing our King, under what specious pretences soever couched, is not onely unlawfull but damnable.</title>
+               </titleStmt>
+               <extent>[2], 46, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.M. and W.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 13th 1647"; the III in imprint is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Divine right of kings --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114840:1" rendition="simple:additions"/>
+            <p>GREAT Britans Vote: OR, God ſave King Charles.</p>
+            <p>A TREATISE Seaſonably publiſhed this 27<hi rend="sup">th.</hi> day of <hi>March,</hi> the happy <hi>Inauguration</hi> of His Sacred (though now de<g ref="char:EOLhyphen"/>ſpiſed and impriſoned) MAIESTY.</p>
+            <p>WHEREIN Is proved by many plaine Texts of Scrip<g ref="char:EOLhyphen"/>ture, That the Reſisting, Impriſoning, or Depoſing our King, under what ſpecious pretences ſoever couched, is not onely unlawfull but damnable.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. M.</hi> and <hi>W. H.</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114840:2"/>
+            <pb n="1" facs="tcp:114840:2"/>
+            <head>Great BRITANS Vote; OR, God ſave King CHARLES.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE outward expreſſions of a man declare the inward affections of his ſoule, at the firſt appearance of a thing whether good or bad; if good, our hearts are affected with joy, which our tongues will ſoone declare: if bad, they are poſſeſt with griefe, which our dejected countenance will ſoone diſcover.</p>
+               <p>The dayes of the Inauguration [or crowning] of Kings hath (in the pureſt times, and by the godlieſt Chriſtians) beene (as a ſuperlative good to a nation) celebrated with great ſolemnity, their perſons being accounted ſacred, and their Government the joy of each good mans heart, how<g ref="char:EOLhyphen"/>ever in theſe laſt and worſt times the ſcorne and contempt of Rebells, Sectaries and Levellers: whoſe hatred to our Gracious Soveraigne, the more it manifeſts it ſelf in them, ſhould the more inflame our ſoules with love to him, and breake forth into as loud acclamations of all Loyall hear<g ref="char:EOLhyphen"/>ted Subjects acknowledging him their Soveraigne with joy in his Crowne, as the Rebells and Schiſmaticks Decla<g ref="char:EOLhyphen"/>rations againſt him to depoſe him from his Throne: and when can we better doe this than on the day of his Coro<g ref="char:EOLhyphen"/>nation:
+<pb n="2" facs="tcp:114840:3"/> a neglect might juſtly deſerve a ſharpe reprehen<g ref="char:EOLhyphen"/>ſion. That our King is worthy of our love, and his Co<g ref="char:EOLhyphen"/>ronation of our ſolemne obſervation, and joyfull acknow<g ref="char:EOLhyphen"/>ledgements, I am confident all (but Traitors and Levellers) will confeſſe: and ſhall wee paſſe over ſo much good with neglect? ſilence in this matter is ſinne, and worthy of re<g ref="char:EOLhyphen"/>proofe; and here it is, which I beſeech God may pierce deep into the ſoules of all that read or heare it, as it is in theſe two Texts of Scripture delivered, <hi>This is the day of our King, Hoſea</hi> 7.5. <hi>Wee doe not well then, this day is a day of good tidings, and we hold our peace,</hi> 2 Kings 7.9.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <p>
+                  <hi>IOaſh</hi> the ſonne of <hi>Ahaziah,</hi> being hid by <hi>Iehoſheba</hi> the Daughter of King <hi>Ioram,</hi> ſix<note n="a" place="margin">2 Kings 11.3.</note> yeares in the houſe of the Lord: becauſe bloudy <hi>Athaliah,</hi> the mother of <hi>Aha<g ref="char:EOLhyphen"/>ziah,</hi> whom<note n="b" place="margin">2 Chron. 22.9, 10, 11.</note> 
+                  <hi>Iehu</hi> killed, had deſtroyed all the Kings ſeed of the houſe of <hi>Iuda,</hi> excepting onely <hi>Ioaſh,</hi> whom <hi>Ioh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſheba</hi> the wife of <hi>Jehoiadah</hi> the Prieſt had preſerved. In the<note n="c" place="margin">2 King. 11.4</note> ſeventh year <hi>Iehoiadah</hi> the Prieſt ſeeing <hi>Athaliah</hi> to uſurp the Crowne, calls forth the Captaines, and gathers the Le<g ref="char:EOLhyphen"/>vites out of all the Cities of <hi>Iudah,</hi> and the chiefe Fathers of <hi>Iſrael</hi> to<note n="d" place="margin">2 Chr. 23.2.</note> 
+                  <hi>Ieruſalem:</hi> and, having firſt bound them with an<note n="e" place="margin">2 Kings 11.4.</note> oath of Allegiance, preſents unto them the ſa<g ref="char:EOLhyphen"/>cred ſpectacle of their Regall Soveraigne;<note n="f" place="margin">2 Chr. 23.3.</note> 
+                  <hi>Behold, the Kings Sonne must reigne.</hi> He ſets a <note n="g" place="margin">1 Kin. 11.6.11</note> watch, and<note n="h" place="margin">2 Chr. 23.11.</note> guard to ſecure and ſafe-guard him. Loc how dangerous is the chair of State: all like officious Subjects ſtand to withſtand the treachery of Traitors. Then in a regall ſolemnity, they bring forth the Kings Sonne (the joy and Iubilie of their hearts) the wiſhed and welcome Progeny of <hi>Jehoſhaphat,</hi> deſcended of an ancient line of Princedome: they put the Crowne upon his head, they give him the teſtimony, they<note n="i" place="margin">2 Kin. 11.12.</note> make him King, <hi>Iehoiadah</hi> and his ſonnes anoint him, they all clapt their hands for joy, and with their hands their hearts, and with their hearts their tongues, till
+<pb n="3" facs="tcp:114840:3"/> their many, yet united voices even reverberate the aire with this heaven-piercing <hi>Eccho,</hi> this Euchariſtique gratulation; <hi>God ſave the King.</hi>
+               </p>
+               <p>So when the dayes of that admired Queene, Queene<note n="*" place="margin">B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Epigr. in claſſ. hiſp. Anno <hi>1588.</hi>
+                  </note> 
+                  <hi>Elizabeth</hi> (of moſt famous and bleſſed memorie) were on earth concluded, then the Foxes of <hi>Babilon,</hi> who had laine in holes forty foure yeares, began to threaten, as <hi>Eſau</hi> did his Brother,<note n="a" place="margin">Gen. 27.41.</note> The dayes of mourning for my Father will come ſhortly, then will I ſlay my Brother <hi>Iacob:</hi> the day of her death, the dawning of their deſire: for then they thought, like <hi>Buſtards</hi> in a Fallow field, to raiſe up them<g ref="char:EOLhyphen"/>ſelves by the violence of the multitude; the Papiſts hoped then to have raiſed their Religion by a whirle-winde of Rebellion, but our bleſſed Peace-maker fruſtrated their bloudy hopes: and as <hi>Paterculus</hi> ſaith of the Roman Em<g ref="char:EOLhyphen"/>pire after <hi>Auguſtus</hi> death, that there was great expectation of much troubles, but there was ſo great a Majeſty in one man, that there was no uſe of Armes for good men, or a<g ref="char:EOLhyphen"/>gainſt bad men. So the great Majeſty of our ſucceeding So<g ref="char:EOLhyphen"/>veraigne King <hi>Iames,</hi> as learned, vertuous, and religious a Prince as any under the roofe of heaven, calmed all the ſtormes, and imaginory tempeſts which were feared and expected; ſo that the world did ſee, our Sunne did ſet, and yet no night did follow: the enemies of <hi>England</hi> ſaw it then to their griefe, who hoped that when the Sunne went downe, ſome <hi>erraticall ſtarre</hi> ſhould ſhine; but ſtill the Planet kept its courſe, Phoenix-like a new, and yet the ſame renewed; for the <hi>Auguſtus</hi> of this latter world, <hi>Iames</hi> came to the Crowne: a King not onely <hi>virorum,</hi> but <hi>ſacro<g ref="char:EOLhyphen"/>rum,</hi> a defender of men, and Defender of the Faith. Which indeed he did performe with ſuch wiſedome and diſcretion that he not only totally ſilenc'd the open threats &amp; conſpi<g ref="char:EOLhyphen"/>racies of his forraign adverſaries and diſcontented Subjects of the Romiſh party, but alſo ſlumbred the ſtormes threat<g ref="char:EOLhyphen"/>ned from the then beginning ſwellings againſt Monarchy, of thoſe little Foxes of Sectaries and Schiſmaticks, whom he kept under all his days, dyed, (was not murdered; though of late falſely and maliciouſly inſinuated) and left a religious
+<pb n="2" facs="tcp:114840:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:114840:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:114840:5"/> and (both in Church and State) well-govern'd King<g ref="char:EOLhyphen"/>dome to his Sonne, our preſent religious and Gracious King <hi>Charles:</hi> A Prince in whom all graces both Divine and Morall were and are as apparent as the Sunne in the Firma<g ref="char:EOLhyphen"/>ment: among all which glorious Starres none was more p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſpicuous than that of his Clemency even to the bittereſt of his Adverſaries, at the luſter of which (oh <hi>nefandum dici</hi>) the Sectaries and Schiſmaticks lighted there before extinct Tapers of Rebellion, Licentiouſneſſe, and Liberty, which is now heightned to that flame which you behold it at: at the light whereof the world may behold a moſt Religious Conſcientious King impriſon'd, the heir apparent of the Crown baniſhed with his Royal Mother (that fruit<g ref="char:EOLhyphen"/>full Vine of ſo many fair, now clouded &amp; ſeparated cluſters) &amp; a free born nation ſlaved unto ſlaves, ambitious Traytors, and bloudy Rebels, under the notion of that deluding good of our Nation, a Parliament, who ſit and vote and declare they wil fight againſt him, whom at their firſt calling toge<g ref="char:EOLhyphen"/>ther they ſwore to fight for, as having derived their being from him, though now like curſed Vipers they endeavour to gnaw out the way to their reſolved upon <hi>Democracy</hi> through the Bowels of their Father <hi>Monarchy.</hi> But what ever we heare or ſee ſuch Traitors Vote or Act, let the re<g ref="char:EOLhyphen"/>membrance of the Bleſſings both ſpirituall and temporall which under eighteen yeares of his Majeſties good and happy Reigne we did enjoy; (and might ſtil have enjoyed, if we would have beene content, and could have knowne when we were well) and undoubted hopes of what bleſ<g ref="char:EOLhyphen"/>ſings his future Gouernment may bring upon this Land, yea all his three Kingdoms; Let (I ſay) the remembrance of the one, and hopes of the other, move all Loyall Subjects to lift up their hearts and hands to the King of Kings to mul<g ref="char:EOLhyphen"/>tiply his dayes as the dayes of Heaven, to deliver him out of his preſent thralcome and reſtraint, to reſtore him to his rightfull Crowne and Dignity, and us his Subjects there<g ref="char:EOLhyphen"/>by to the right profeſſion of true Religion, and an once more enjoyment of Peace and Plenty: yea I am confident <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> doe move all true hearted Nobility, Gentry and Com<g ref="char:EOLhyphen"/>monalty
+<pb n="5" facs="tcp:114840:5"/> to pray for him, as the Chriſtians prayed in old time for their Kings though Heathens, God of his infinite mercy grant him<note n="a" place="margin">Tertul. in Apo<g ref="char:EOLhyphen"/>log. c. <hi>30.</hi>
+                  </note> a long life, a quiet Kingdome, a ſafe Court, ſtrong and victorious Armies, a faithfull Coun<g ref="char:EOLhyphen"/>ſell: yea with <hi>David,</hi>
+                  <note n="b" place="margin">Pſal. 132.18.</note> that God would cloath all his ene<g ref="char:EOLhyphen"/>mies with ſhame: but ſet him at Liberty, reſtore him his Scepter, and on him and his to cauſe his Crown hereaf<g ref="char:EOLhyphen"/>ter to flouriſh; That ſo as on the day of his re-inauguration into all the hearts of his Subjects, and re-eſtabliſhment in his Throne, the united voyces of his Majeſties populous Kingdomes may annually ſend up to heaven their cordiall and continuall acclamations, <hi>God ſave the King;</hi> that the eccho thereof may reſound in heaven as fervently, as the noiſe of the Romans did in applauſe of <hi>Flaminius,</hi> generally calling him <hi>Saviour, Saviour;</hi> the noiſe whereof was ſo vio<g ref="char:EOLhyphen"/>lent and vehement, that (as<note n="c" place="margin">Plut. in vita Flaminii.</note> 
+                  <hi>Plutarch</hi> writes) it made the Fowles of the aire fall downe dead: or that as the<note n="d" place="margin">1 King. 1.</note> people of Iſrael did to <hi>Solomon,</hi> when hee was created King in <hi>Gi<g ref="char:EOLhyphen"/>hon,</hi> and anointed there by <hi>Zadock</hi> with an horne of Oyle taken out of the Sanctuary, the<note n="e" place="margin">1 King. 1.40.</note> people piped with pipes, and rejoyced with great joy, ſo that the earth rang with the ſound of it,<note n="f" place="margin">39.</note> blowing their Trumpets and ſaying, <hi>God ſave King Solomon!</hi> So may all the people within his High<g ref="char:EOLhyphen"/>neſſe Dominions lift up their hearts and hands, blow their Trumpets, ring their Bells, frequent their Churches, and pray,</p>
+               <list>
+                  <item>God ſave the King <hi>Corporally,</hi> in <hi>Body,</hi>
+                  </item>
+                  <item>God ſave the King <hi>Spiritually,</hi> in <hi>Spirit,</hi>
+                  </item>
+                  <item>God ſave the King <hi>Politically,</hi> in <hi>Government;</hi>
+                  </item>
+               </list>
+               <p>And excite one another to ſay, This is the day of our King we do not well then, this day is a day of good tidings, we doe not well to hold our peace: And indeed we can never have greater cauſe to ſpeake of and pray for our King then now, in theſe Rebellious times upon which we are unhap<g ref="char:EOLhyphen"/>pily fallen; For theſe are the times wherin by thoſe that call themſelves a Parliament, Rebellion is countenanced, yea counted Devotion and holy Reformation, and the moſt deſperate Traytors entitled Saints and Martyrs.</p>
+               <pb n="6" facs="tcp:114840:6"/>
+               <p>Wherein, not onely in the Popes Conclave, but alſo, in the Sectaries Conventicles ſhall I ſay? nay in the grand Counſell of the beſt reformed Proteſtant Kingdome, no<g ref="char:EOLhyphen"/>thing is more rife than the ſlandering, rebelling againſt, and Impriſoning ſhall I ſay? Yea the Theorick and pra<g ref="char:EOLhyphen"/>cticke of depoſing, nay (it is to be feared (which God pre<g ref="char:EOLhyphen"/>vent) it will proceed to) murthering Princes.</p>
+               <p>Wherein as <hi>Mariana</hi> that inſolent <hi>Ieſuite</hi> preſcribes to Traitors rules and cautions for poiſoning Kings, and high<g ref="char:EOLhyphen"/>ly commends King-killers. So <hi>Marten,</hi> that impudent Re<g ref="char:EOLhyphen"/>bell publiſheth (with the approbation of a Parliament too) to the encouragement of Sectaries and Traitors, grounds and reaſons to proceed in Kings reſiſting and de<g ref="char:EOLhyphen"/>poſing, and highly applauds that curſed crue of King catch<g ref="char:EOLhyphen"/>ers, eclipped Saints of the Army.</p>
+               <p>Wherein thoſe Traiterous aſſertions of <hi>Suarez,</hi> and other Ieſuites, are the conſtant Poſitions of thoſe who would be thought to abhorre and beate downe <hi>Poperie: Subditos poſſe de privare Reges (a Papa excommunicatos) vitâ &amp; Regno:</hi> (That is to ſay, the Sectaries of <hi>England</hi>) Subjects may deprive Kings (if Voted againſt by the Parliament) not onely of their Liberty, Crownes, and Kingdomes, as ap<g ref="char:EOLhyphen"/>peares by the preſent ſad condition of King <hi>Charles,</hi> but al<g ref="char:EOLhyphen"/>ſo of life it ſelfe, with their <hi>Tradatur Satanae,</hi> and we know not (though we feare) what event that may in time pro<g ref="char:EOLhyphen"/>duce.</p>
+               <p>Wherein that horred ſaying of that foule mouth'd <hi>Guig<g ref="char:EOLhyphen"/>nard</hi> (concerning the murther of one of the <hi>Henries</hi> of <hi>France,</hi> committed by two <hi>Jacobine</hi> Friers, <hi>Heroicum fact<g ref="char:EOLhyphen"/>um, &amp; donum ſpiritus ſancti</hi>) is become the oft incultated Doctrine out of Proteſtant Pulpits, and re-reſolved Votes of the grand Committee Chaire, to reſiſt, fight a<g ref="char:EOLhyphen"/>gainſt impriſon, Depoſe, yea kill and ſlay the King and all his adherents, is a moſt Heroicall act, and the gift of the Holy Ghoſt.</p>
+               <p>Laſtly, theſe are the times, wherein that knowne blou<g ref="char:EOLhyphen"/>dy practice of the <hi>Spaniſh Inquiſition</hi> is, parallel'd ſhall I ſay? nay out-practized by the action of the Engliſh Par<g ref="char:EOLhyphen"/>liament.
+<pb n="7" facs="tcp:114840:6"/> As in the Spaniſh Inquiſition their arguing is this: whoſoever is an Heretick ought to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee burnt; but whoſo<g ref="char:EOLhyphen"/>ever will not ſubmit to our Canons and Decretalls is an Hereticke: therefore whoſoever will not ſubmit to our Canons and Decretalls ought to be burnt. He that is un<g ref="char:EOLhyphen"/>der the Inquiſition denyeth, that every one that will not ſubmit to their Canons and Decretalls are Herereticks, and conſequently not to be burnt, and offer to diſpute it. They of the Inquiſition prove it thus, They command him to withdraw, decree his death, dragge him to the ſtake, bind him to it, put Faggots about him, ſet them on fire and burn him: a moſt invincible argument. So the Vote of this Parliament is, whoſoever will not doe the Law of God, and the Law of the King, ought to have judgement ſpec<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y executed upon him either by death or by baniſhment, or by confiſcation of goods, or by impriſonment. But whoſoever will not obey the Orders or Ordinances of one or both Houſes of Parliament, doth not doe the Law of God, and the Law of the King: Therefore whoſoever doth not obey the Orders or Ordinances (bee they never ſo oppoſite to reaſon and juſtice) of one or both Houſes, ought to have judgement ſpeedily ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cuted upon him ei<g ref="char:EOLhyphen"/>ther by death, or baniſhment, or confiſcation of goods, or impriſonment. Thoſe men that are brought before them as guilty in this point, Deny, that whoſoever will not obey the Orders or Ordinances of one or both Houſes of Parlia<g ref="char:EOLhyphen"/>ment therfore do not do the Law of God and of the King, and conſequently ought not to have judgement executed upon them without a legall Triall: Hereupon they com<g ref="char:EOLhyphen"/>mand them to retire, reſolve upon the Queſtion that judgement bee executed upon them; and then either be<g ref="char:EOLhyphen"/>head or hang them, or baniſh them, or plunder them, or at leaſt impriſon them (oh unpar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lleld diſputants!) This is moſt certainly true, witneſſe the caſe of <hi>Corew, Lil<g ref="char:EOLhyphen"/>borne, J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nkins, Mainard,</hi> yea (which ought to make a deepe Impreſſion in all good mens hearts) of the Kings Maje<g ref="char:EOLhyphen"/>ſty himſelfe, whom they unjuſtly keep a Priſoner, becauſe he will not (contrary to his Conſcience and Honour) ſay
+<pb n="8" facs="tcp:114840:7"/> as they ſay, and enact that for Law which contrary to Law they Vote, and accuſe him of his Fathers Murther, and other crimes of a high nature, and yet not admit him to anſwer for himſelfe, or permit others to write in his Vindication: So that th ſe things conſidered (heare oh heavens! and judge oh eart<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>!) have not all the people of great <hi>Britan</hi> juſt cauſe to joyne (as their loyall obedience bindes them to their neceſſary ſervice) both in hearts and voices to Almighty God, (the protector of Kings) to<note n="a" place="margin">Pſal. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.8 9.</note> finde out all his enemies and make them like a fiery O<g ref="char:EOLhyphen"/>ven in the time of his anger, to confound all their Conſpi<g ref="char:EOLhyphen"/>raci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, making them like the graſſe<note n="b" place="margin">Pſal. 119.6</note> on the houſe tops, which withereth before it come forth? And when more ſeaſonable than upon this day; <hi>for this is the day of our King, &amp;c.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <p>BVt beſides theſe Reaſons, I ſhall here produce other cauſes and motives to induce all good Subjects to this Chriſtian ſervice and loyall duty (to pray continually for the preſervation of the King) which becauſe many and manifold; I will but touch ſome of them, and omit the re<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>: for we muſt be ſhort.</p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>im. 2.2.</note>The firſt is the Apoſtle <hi>Paules</hi> Precept, <hi>ante omnia,</hi> be<g ref="char:EOLhyphen"/>fore al, that Supplications, Prayers, &amp; Interceſſions, and gi<g ref="char:EOLhyphen"/>ving of thanks bee made for Kings, &amp;c. and renders a powerfull motive to perſwade all, conſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting of three be<g ref="char:EOLhyphen"/>nefits<note n="d" place="margin">P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. in <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>um.</note> ariſing from it: 1. a quiet and peaceable life: 2. in all godlineſſe and honeſty: 3. this is good and acceptable in the ſight of God; The Kings preſervation is our pre<g ref="char:EOLhyphen"/>ſervation, his welfare is the weal of our Common-wealth. <hi>Pliny</hi> ſaith,<note n="e" place="margin">Plin. <hi>2</hi> Pan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g ad Pra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> A Countrey is unhappy under an unhap<g ref="char:EOLhyphen"/>py King; ſo that if people deſire to live a quiet and peace<g ref="char:EOLhyphen"/>able life in all godlineſſe and honeſty, let them like dutifull members pray for the proſperity of the ſupreame head, for if he fall upon the rocks, they are like to come to ruine.
+<pb n="9" facs="tcp:114840:7"/> As a Ship whoſe Pilot periſheth, is driven upon the rocks, and ſo is caſt away, even ſo, how can the ſhip of State ſaile with a proſperous winde, whoſe Regall Pilot ſuffers ſhip<g ref="char:EOLhyphen"/>wracke? Regall adverſity is the Harbenger of <hi>popular ca<g ref="char:EOLhyphen"/>lamity;</hi> and a Kings impriſonment of his peoples perpe<g ref="char:EOLhyphen"/>tuall ſlavery: Wherefore if Subjects deſire to bee happy themſelves, let them continually pray for the happineſſe of their Soveraign, whoſe proſperity is the Axis or Cardo, the very foundation of their temporall felicity.</p>
+               <p n="2">2 Motive is the great difficulty in the right managing of the Regall Office, and therefore had need to be aſſiſted with the frequent and fervent prayers of the people, im<g ref="char:EOLhyphen"/>ploring divine wiſedome, to direct the heart of their Sove<g ref="char:EOLhyphen"/>raigne, for it is the Art of Arts, rightly to rule and go<g ref="char:EOLhyphen"/>verne Common-wealths; this many-headed multitude ſo divided in faction and action, ſcarce two of one minde or mould; Peace pleaſeth <hi>Cato,</hi> Warre <hi>Pompey:</hi> the Souldier cryes <hi>Arma virum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Cano,</hi> War, war that makes us merrie: the Merchant prays, give peace in our time, oh Lord: <hi>Brutus</hi> deſires a Common-wealth, <hi>Caeſar</hi> a Monarchy; <hi>Cicero's</hi> Counſel is, Let us be Time-ſervers; but <hi>Lentulus</hi> thinks that, the voice of a flatterer; in the <hi rend="sup">f</hi> popular ſort, as many heads as hearts; and let every one doe what ſeemes good in his owne eyes, wee will not have <hi>Charles</hi> King in our Iſrael.</p>
+               <p>So that to reconcile, and to reclaime to unity and unani<g ref="char:EOLhyphen"/>mity this Babell of men, and theſe men of Babell, it is re<g ref="char:EOLhyphen"/>quiſite that the King <hi>be for the people to God-ward,</hi>
+                  <note place="margin">Exod. 18.19.</note> 
+                  <hi>bring their cauſes unto God, teach them Ordinances and Lawes, ſhew them the way wherein they muſt walke,</hi>
+                  <note place="margin">V. 20.</note> 
+                  <hi>and the worke that they muſt doe: and then provide out of all the people able men,</hi>
+                  <note place="margin">V. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>ſuch as feare God, men of truth, who may judge the people in every ſmall matter, though every great matter be brought to him;</hi>
+                  <note place="margin">V. 22.</note> ſo that each ſtarre moving in its proper Orbe, about the Sun, (who by this influence of his power unto others, is not thereby accounted falne from his Sphere himſelfe, no more than to be conceited to bee placed therein at firſt by their appointment, though ſuch prepoſterous opinions have
+<pb n="10" facs="tcp:114840:8"/> beene vented of late, to the diſtraction of this poore King<g ref="char:EOLhyphen"/>dome, and without a timely retraction, will produce its utter ruine and deſtruction; (which God of his mercy pre<g ref="char:EOLhyphen"/>vent) I ſay, that ſo each one in the Kingdome acting in his owne place, the Commons under the Iudges or Peeres, the Peeres or Iudges under the King, and the King under God alone; then ſhall the King be able to judge and rule this people wiſh eaſe and comfortably, <hi>and all this people ſhall alſo goe to their place in peace. <hi rend="sup">•</hi>
+                  </hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>od. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8.23.</note> Now 'tis the God of Heaven onely that can qualifie Kings with wiſedome and knowledge fit for an imployment of ſuch difficulty; and he alone it is that will and muſt appoint the perſon whom he will thus qualifie: For the <hi>Iſrael of God muſt accept of, acknowledge, and obey him for their King wh m the Lord their God ſhall choſe,</hi> not then whom themſelves ſhall elect: <hi>Deut.</hi> 17 15. Vnto God then it is the duty of all good ſub<g ref="char:EOLhyphen"/>jects to pray alwayes with all manner of prayer and Sup<g ref="char:EOLhyphen"/>plication in the Spirit, that God would enlarge with hea<g ref="char:EOLhyphen"/>venly wiſedome the heart of our Soveraigne, (and the Kings<note n="a" place="margin">Prov. 21.2</note> heart is in the hand of the Lord) and furniſh him with all bleſſed gifts, ſutable to performe his Royall Task, making him as wiſe as<note n="b" place="margin">2 Chr. 1.21.</note> 
+                  <hi>Solomon,</hi> as religious as<note n="c" place="margin">Pſal. 27.4.</note> 
+                  <hi>Davia,</hi> as zealous as the good King<note n="d" place="margin">2 Kin. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>Ioſias,</hi> and (in reſpect of his preſent condition) as patient as <hi>Iob:</hi> defending him againſt all forraine Invaſions, delivering him from all domeſtick Conſpiracies, and giving him Liberty from his preſent Captivity, that ſo being by the power of our God reſtored to his Throne and Dignity, full of the knowledge and experience of the great goodneſſe of God towards him, and endued with the wiſedome which is ahout the Throne of the King of Kings, with an underſtanding heart may judge this great people, and awe and order this ſtiffe-neck<g ref="char:EOLhyphen"/>ed and Rebellious nation; then ſhall all this people alſo go to their owne place in peace, and ſit under their owne Vines and Fig-trees, (being for the future godly and go<g ref="char:EOLhyphen"/>verned quietly under him) ſaying this is the day of our King, this is a day of good tidings, wee ſhould not doe well ſhould wee hold our peace, the very ſtones in the
+<pb n="11" facs="tcp:114840:8"/> ſtreets will reprove, us and the timber out of the wall up<g ref="char:EOLhyphen"/>braid our ſilence; by their acclamations exciting our dull affections to ſhoute for joy and pray, <hi>God ſave King</hi> Charles.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <p>ANd truly there are five things (to name no more) which all good ſubjects owe unto their Soveraigne: <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is Prayer. 2 Obedience. 3. Honour. 4. Service. 5. Tribute. And if any Subject deny any one of theſe, the King may take him by the throat and ſay<note n="a" place="margin">Matth. 18.28.</note> 
+                  <hi>Solve quod debes,</hi> Pay that thou oweſt.</p>
+               <p n="1">1. Firſt is Prayer; to pray for the Kings preſervation on earth, and ſalvation in Heaven. The heathen Chaldeans may learn Chriſtians this leſſon, who cryed to their King<note n="b" place="margin">Dan. 3.9.</note> 
+                  <hi>Nebuchadrezar,</hi> O King live for ever. As King<note n="c" place="margin">1 Kin. 8.34.36</note> 
+                  <hi>Solomon</hi> prayed for his people, ſo ought his people to pray for him, ſ ying of their Lord the King, as King <hi>David</hi> ſpeakes of the Lord of Iſrael, <hi>Bleſſed</hi>
+                  <note n="d" place="margin">Pſal. 106.48.</note> 
+                  <hi>be the Lord God of Jſrael for ever and ever;</hi> and let all the people ſay <hi>Amen:</hi> ſaying to the King as <hi>Amaſa</hi> and his company ſaid to <hi>David</hi>
+                  <note n="e" place="margin">1 Chron. 12.18</note> 
+                  <hi>Thine are we O David, and with thee O ſon of Iſhai; peace peace, be unto thee, and peace be unto thy helpers, and the Lord thy God in his good time be thy helper.</hi> That tongue that will not pray for his Majeſties preſent liberty from priſon, and honourable re-eſtabliſhment in his lawfull Throne and Kingdome, and for the future Peace, Proſperity, and preſervation of ſo ver<g ref="char:EOLhyphen"/>tuous a Prince, and their anointed Soveraigne, is ſuch a tongue as the Apoſtle <hi>Iames</hi>
+                  <note n="f" place="margin">Iam. 3.6.</note> ſpeakes of, fire, and a world of wickedneſſe, and is ſet on fire of hell: for, ſaith <hi>Auſtin,</hi> the juſt man never ceaſes to pray, unleſſe he ceaſe to be juſt: much leſſe ſhould he ceaſe to poure forth fervent and faith<g ref="char:EOLhyphen"/>full ſupplications for the King, that under him wee may lead a peaceable life in all godlineſſe and honeſty. Such ungodly and undutifull ſubjects as will not unlooſe the ſtrings of their tongues to pray for the ſafety and felicity of
+<pb n="12" facs="tcp:114840:9"/> the King, we wiſh that they were like the men at the river <hi>Ganges,</hi> who (it wee credit the report of <hi>Strabe</hi>) have no tongues:<note n="g" place="margin">M<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> better is it to enter into the kingdome of Hea<g ref="char:EOLhyphen"/>ven loſing a member, then having ſuch an ungodly member to be caſt into hell fi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. But herein many times the tongue is m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re offici<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us then the heart; with tongue they cry <hi>Hoſanna</hi>
+                  <note n="h" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 paragraph">
+                        <desc>〈1 paragraph〉</desc>
+                     </gap>
+                  </note>, but in heart, like Iewes wiſh <hi>crucifige;</hi> with a verb<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſervice many abound crying and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ringing <hi>vivat Rex;</hi> but withall, <hi>ſtore it hoc Parliamentum,</hi> and that will never make a good prayer. A King had need call to his ſub<g ref="char:EOLhyphen"/>jects, as God to his ſervants<note n="i" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> give me thy heart; the world is full of faire tongues, but falſe hearts: none but the great ſearcher of the heart, hath a window in the heart to ſee who honour with lippes, and their hearts farre from him. So that Kings had need examine their ſubjects as<note n="k" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.</note> Chriſt did <hi>Peter</hi> thrice, doſt thou love me? The world hath bred ſo many proteſtors of the Romiſh, and ſo many profeſſors of the Sectaries doctrine of devilliſh equivocation, and Parliamentiz'd creatures profound in the art of diſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mulati<g ref="char:EOLhyphen"/>on, that many men are like <hi>God<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in Sands, in dubio pelagi ter<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ve,</hi> doubtfull whether to belong to ſea or land; tempo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ers or neuters, like the<note n="l" place="margin">R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. 3.15.</note> Church of Laodicea, neither hot <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r cold; either Prince, or Pope, Parliament or Levellers, pleaſe them. Monarchy, Ariſtocracy, Democracy, yea A<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>chy, all alike to them: As for Religion; Proteſtaniſme, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>op<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry, Put i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſme, Anabaptiſme, Turkiſme, Heathen<g ref="char:EOLhyphen"/>iſme, Atheiſme, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tever the grand Councell ſhall coun<g ref="char:EOLhyphen"/>tena<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce, is equally received by them. Theſe, like the <hi>Came<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on,</hi> aſſume any ſhape faſhionable to the time: to whom yet I doubt not but God will one day ſay, Becauſe ye are luke<g ref="char:EOLhyphen"/>warm profeſſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, neither hot nor cold, I will ſpue ye out of my mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th. <hi>Rev</hi> 3.16. Such as theſe ſtudy <hi>Machiavell</hi> more then the Goſpel,<note n="m" place="margin">M<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> c. <hi>3.</hi>
+                  </note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſhion themſelves to the favour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble fortune of the time, and thinke themſelves happy (as<note n="n" place="margin">Ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> he counts thoſe Princes happy, whoſe counſels are ſucceſſive<g ref="char:EOLhyphen"/>ly correſpondent to the condition of the times.) The pray<g ref="char:EOLhyphen"/>ers of ſuch temporizers (whoſe tongues may flame, but their hearts are as cold as a ſtone) are abhominable in the
+<pb n="13" facs="tcp:114840:9"/> ſight of God: <hi>Eſto religioſu in Deum, qui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir il<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um Im<g ref="char:EOLhyphen"/>peratori<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe propitium,</hi> ſaith <hi>Tertullian.</hi>
+                  <note n="n" place="margin">T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oc c. <hi>34.</hi>
+                  </note> The Lord is far off the wicked, but hee neareth the prayers of the righteous, ſaith<note n="o" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> v. 15.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> 
+                  <hi>Sal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n;</hi> God will not be<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e the prayers of theſe Church-nea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers, yea Chu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h-haters, n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more then the ido<g ref="char:EOLhyphen"/>latr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wes<note n="p" place="margin">Ezech. 8.18.</note> 
+                  <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ugh they cry in any eares with a loud voice yet will not I heare them.</hi> And therefore that we may per<g ref="char:EOLhyphen"/>forme our firſt bounden duty unto the King, acceptable to the King of Kings, in making hearty and humble prayers for the freedome, reſtauration, protection and preſerva<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of his Majeſty, let all the people in his Realm, from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igh to low, from great to ſmall, doe this comfortable and Chriſtian ſervice, fervently, feelingly, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aithfully un<g ref="char:EOLhyphen"/>to the Lord night and day crying and craving, <hi>God ſave the King.</hi>
+               </p>
+               <p>The Lord hath commanded this duty to pray not on<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r good Kings, but even for bad Kings. When <hi>Paul</hi> gave that Apoſtolicall counſell, 1 <hi>Timothy,</hi> 2.1, 2. to pray for for Kings, <hi>Caligula, Claudius,</hi> or <hi>Nero,</hi> moſt bloody Pagan Emperours then raigned.<note n="q" place="margin">Baruc. 1.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ier. 29.7. So <hi>Abraham</hi> prayed for K. <hi>Ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lech.</hi> Gen. 20.27. So <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ob</hi> H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Kin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Pha<g ref="char:EOLhyphen"/>roah.</hi> Gen. 47.10.</note> Pray for the life of <hi>Nebuchad<g ref="char:EOLhyphen"/>nezar</hi> King of Babylon, and for the life of <hi>Balthaſar</hi> his ſonne, that their dayes might bee on earth as the dayes of heaven: So the Lord commanded the Iewes to pray for the peace of the City of Babylon, where <hi>Nebuchadnezar</hi> raigned. If then the Lord charg and command to pray for ſuch Governours as were Pagans, Perſecutors, Idolaters In<g ref="char:EOLhyphen"/>fidels: how devoutely and deeply are all loyall ſubjects <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound to pray and to praiſe God for the bleſſed govern<g ref="char:EOLhyphen"/>ment of Zealous and Chriſtian Kings? Eſpecially how more ought we to pray for ſo religious and gracious a King and to beſeech God with proſtrate ſoules, to viſit and ſet him at liberty, now after the time he hath afflicted him, and permitted his reſtraint, and comfort him with joy and gladneſſe for the yeares wherein hee hath ſuffered adverſity, and for the future to defend him and his from all the trea<g ref="char:EOLhyphen"/>cherous traines, and rebellious plots, whether of forraine foes, or home hatcht parricides, whether corner creeping Ieſuits of the Romiſh party, or houſe-preaching <hi>Iudaſſes</hi>
+                  <pb n="14" facs="tcp:114840:10"/> of Schiſmaticall faction: To deliver from and ſtrength<g ref="char:EOLhyphen"/>en him againſt whom, let us, we doe, implore the hand of heaven to Sentinell ov<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him; and to endue him from a<g ref="char:EOLhyphen"/>bove, with the gifts of Knowledge, Prudence, Iuſtice, Temp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rance, Patience, Fortitude, Clemency: with fervent zeale of Gods glo y, love to the Goſpell, and never-ceaſing car<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f r the generall well-fare of his publike charge. Let as ſpend our ſpirits day and night in theſe Prayers, that a gracious bleſſing may bee evermore upon our Soveraigne and his Seed, to prolong his dayes with Health and Ho<g ref="char:EOLhyphen"/>nour on earth, and with immortall Happineſſe in Heaven. <hi>Amen. Amen.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <p>THe ſecond generall duty of all ſubjects, is <hi>Obedience,</hi> and that bef<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re God<note n="a" place="margin">S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 15.22.</note> is better than Sacrifice<note n="b" place="margin">
+                     <hi>C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note>: The Enemy oppoſite to Obedience is Rebellion, compared by<note n="c" place="margin">1 Sam. 15.23.</note> 
+                  <hi>Samuel</hi> to the ſinne of Witchcraft, the very Chaos of Confuſion, containing nothing elſe but miſchiefe and mur<g ref="char:EOLhyphen"/>der, diſcord and deſolation.</p>
+               <p>As Rebellion is moſt odious and deteſtable, ſo is Obedi<g ref="char:EOLhyphen"/>ence commendable and acceptable, and this is of three ſorts:</p>
+               <p>Firſt, obey God by man. Secondly, Obey God and man. Thirdly, Obey God rather than man. We need not write how God is to be obeyed before all, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bove all; Gods Precepts may not be countermanded by mans Ordinances, nor Gods Ordinances prejudiced by mans Precepts: God is to be obe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in every thing <hi>ſimpliciter;</hi> man is to bee o<g ref="char:EOLhyphen"/>b yed <hi>ſecundum qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d,</hi> reſpectively, ſo farre as his com<g ref="char:EOLhyphen"/>mands be conſonant to Gods Lawes. Saint <hi>Austin</hi> gives all a good rule for obedience: willingly and wittingly o<g ref="char:EOLhyphen"/>bey not good men in the performance of ill, nor diſobey il<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>men commanding things good; but God himſelf com<g ref="char:EOLhyphen"/>mands obedience to his<note n="d" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 paragraph">
+                        <desc>〈1 paragraph〉</desc>
+                     </gap>
+                  </note> breathing Images, whom hee himſelfe ſtileth<note n="e" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 paragraph">
+                        <desc>〈1 paragraph〉</desc>
+                     </gap>
+                  </note> Gods; the mortall Pictures of the immor<g ref="char:EOLhyphen"/>tall
+<pb n="15" facs="tcp:114840:10"/> God; the right fingers of that be ve<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and which ru<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ctantius</hi> ſaith, Kings <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> men before G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Gods <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> gl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of that God, who makes theſe G<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ian</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith, The Emperor is greater in dig<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rtall m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, onely inter<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtall God; a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Cyrillus</hi> w<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es to <hi>Theo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us</hi> the y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unger, N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te equall to your Excellence; or as <hi rend="sup">•</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 2 <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> A <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Ba<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> o<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> T<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>. lib. ad Scapulum. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Epiſt. ad <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> p<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>na lib. a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> verſ. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>an. <hi>1</hi> Paraenet. num. <hi>21.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>b. <hi>3.</hi> contra <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rmen.</note> 
+                  <hi>Agapitus</hi> to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Iuſti<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</hi> None on the earth higher than he: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ptatus,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ove the Em<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eror is none, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> only G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e Emperor: or as S<hi rend="sup">t</hi> 
+                  <hi>Chryſoſtome</hi>
+                  <note n="l" place="margin">H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m <hi>3.</hi> ad po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> An<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</note> ſpea<g ref="char:EOLhyphen"/>ki<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Emperor <hi>Theo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſius;</hi> Hee hath no eq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> upon earth, the ſupre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead over al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o, now you P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cardinalls of <hi>Rome,</hi> and Lords and Com<g ref="char:EOLhyphen"/>mons aſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nding at <hi>Weſtminſter,</hi> what can you anſwer to t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e clouds of witneſſes? But if theſe may bee objected againſt: what ſay you to a rule of Scripture? is not the Word of God of more truth, and therefore to bee obeyed rather than your <hi>Decretalls</hi> or Ordinances? What! is S<hi rend="sup">t</hi> 
+                  <hi>Pauls</hi> Precept out of Date with you: <hi>Rom.</hi> 13.1. <hi>Let e<g ref="char:EOLhyphen"/>very Soule be ſubject unto the higher Powers?</hi> Which is not meant of you ye Vſurpers of the Regall Throne; but of a King, of our King, in whom God hath ordained and pla<g ref="char:EOLhyphen"/>ced power both in Church and Common-wealth: and in teſtimony that that is the meaning of the Holy Ghoſt: in the fourth verſe thoſe higher Powers are thrice mention<g ref="char:EOLhyphen"/>ed in the ſingular number, as intimating that Precept com<g ref="char:EOLhyphen"/>manded ſubjection unto one, the King:<note n="m" place="margin">P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. 13 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1. 1 <hi>Greg</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. 33 <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> and forbade all reſiſting that one: <hi>Hee is Gods Miniſter: Hee beares not the ſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra in vaine: he is the Miniſter of God to thee for thy good:</hi> if thou reſiſt not, but obey: <hi>But a revenger to execute wrath upon him that doth evill.</hi>
+               </p>
+               <p>Oh ye Lords &amp; ſpecially proud C mmons, ſurely ye have rejected this Scripture, or do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it as Apochryphall: other wiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ye would <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thruſt your Sickl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mon <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:114840:11"/> Religion and Law, uſurpe a preheminence above your King.</p>
+               <p>Have you forgot Saint <hi>Peters</hi> Rule? I wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l put you in minde of it: 1 <hi>Pet.</hi> 2.13. <hi>Submit your ſelves to all manner of Ordinance of man for the Lord ſake, unto the King, as unto the Superiour, &amp;c.</hi> Submit your ſelves unto temporall Lords, for the eternall Lords ſake, unto your King on earth, for the King of Kings ſake in heaven, as <hi>Augustine</hi> very excellently, <hi>Aug. in Pſal.</hi> 124. Which that ye may ſee yee are all bound to doe, looke but upon that Scripture ſeriouſly without prejudice or partiality, and you ſhall plainly diſcover it propounding and holding forth theſe certaine and undenyable arguments to enforce ſo much: Firſt,<note place="margin">Vide Piſc. anal. in locum.</note> for the Lords ſake; that ſo we may honour God who hath commanded this obedience. Secondly, that wee may avoid the puniſhments of diſobedience to the Magiſtrate, ſent for the puniſhment of ill-doers, <hi>v.</hi> 14. Thirdly, that we may get praiſe and protection againſt the wicked by our obedience, <hi>v.</hi> 14. to the praiſe of them<note n="a" place="margin">Rom 13.3.</note> that doe well. To the ſame purpoſe alſo looke with the ſame candid judg<g ref="char:EOLhyphen"/>ment upon that generall and ſubſtantiall foundation for o<g ref="char:EOLhyphen"/>bedience laid downe by the great Apoſtle of the Gentiles, <hi>Rom.</hi> 13. and the firſt, and I am confident that you will with me conclude, that that excludes or exempts, as nei<g ref="char:EOLhyphen"/>ther Pope nor Prieſt, ſo neither Lords nor Commons from obedience, but abſolutely damns indefinitely all in general, and every one in particular that reſiſt the King: <hi>Let every ſoule, &amp;c.</hi> Saint <hi>Chryſoſtome</hi> upon that place ſaith; though an Apoſtle, an Evangeliſt or a Prophet, yet let him be ſub<g ref="char:EOLhyphen"/>ject to the higher Powers, which <hi>Auguſtine, Chryſoſtome,</hi> and the beſt Ancients confeſſe and affirme to bee the King, and ſo acknowledged by the Ieſuite<note n="b" place="margin">Diſp. <hi>10.</hi> in Rom <hi>13.</hi> v. <hi>1.</hi> Goran in locù.</note> 
+                  <hi>Pererius;</hi> and the A<g ref="char:EOLhyphen"/>poſtle enforceth all to this obedience by three Reaſons:</p>
+               <p>Firſt drawn from the efficient or procreant cauſe of go<g ref="char:EOLhyphen"/>vernment; For there is no power but of God, and the powers that be are ordained of God, verſe 1.</p>
+               <p>Secondly drawne from the pernicious effect of diſo<g ref="char:EOLhyphen"/>bedience, Whoſoever reſiſteth power, reſiſteth the ordi<g ref="char:EOLhyphen"/>nance
+<pb n="17" facs="tcp:114840:11"/> of God, and they that reſiſt ſhall receive to them<g ref="char:EOLhyphen"/>ſelves condemnation, or judgement, <hi>v.</hi> 2.</p>
+               <p>Third taken <hi>A beneficio,</hi> from the benefit or profitable effect of obedience, For hee is the Miniſter of God for thy wealth, <hi>v.</hi> 4. Concluding that obedience is neceſſary, <hi>v</hi> 5. Not onely for feare, but for Conſcience ſake. So againe the Apoſtle<note n="d" place="margin">Tit. 3.1.</note> 
+                  <hi>Paul</hi> layes downe his Apoſtolicall leſſon to his ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nne <hi>Titus;</hi> Put them in remembrance, or admoniſh them, that they bee ſubject to Princes or Principalities and powers, and that they be obedient, &amp;c. Nay indeed it is<note n="e" place="margin">The Beaſts o<g ref="char:EOLunhyphen"/>bey the Lion, the birds the Eagle, the fi<g ref="char:EOLhyphen"/>ſhes the Whale. &amp;c. <hi>Cyprian de va<g ref="char:EOLhyphen"/>nit. Idol:</hi> The Cranes have their Captain.</note> Natures theame to obey Princes, and of this theame Grace is the <hi>Hypotheſis.</hi>
+               </p>
+               <p>Look upon the ſilly Bees, the beſt emblemes of obedient Cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atures, painfull in their labour, dutifull in their life, their King being ſafe, they are all at unity; So long as their King is well, they follow their worke; but being loſt, they leave and loath their Honey-combes, and when their King waxes old and cannot flye, they carry him on their wings, and if he dye, they dye with him, as ſome write.<note n="f" place="margin">Hieron. ep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st. ad Ruſticam.</note> Be<g ref="char:EOLhyphen"/>hold how nature hath ſtamped obedience by inſtinct to Bees, to be ſubject to a ſuperiour in their kinde;<note n="g" place="margin">Pet. Chry. in Policrat. lib. <hi>7.</hi>
+                  </note> how much more ſhould Nature, Reaſon, and Grace, ſtampe obedience in the heart of Chriſtians, knowing that without a King<g ref="char:EOLhyphen"/>ly Government, Kingdomes are thraldomes:<note n="h" place="margin">Aug de civit dei. lib. <hi>4</hi> c. <hi>4.</hi>
+                  </note> Take away Iuſtice, and what are Kingdomes but Dens of Theeves? Take away obedience to Government, and that were to make earth and hell all one, but onely in name. There is not wanting divine Precepts, or divine Patterns, to allure loy<g ref="char:EOLhyphen"/>all obedience: take two in ſtead of many; the firſt and beſt of all, our Saviour Chriſt,<note n="i" place="margin">Matth. 3.17.</note> in whom God is well pleaſed: and the ſecond <hi>David,</hi>
+                  <note n="k" place="margin">1 Sam. 13.14.</note> a man after Gods owne heart: Our Lord and Saviour Ieſus Chriſt (yet God and man) in the dayes of his fleſh diſdained not to obey ſuch as were in authority,<note n="l" place="margin">Matth. 22.21.</note> commanding to give unto <hi>Caeſar</hi> that which is <hi>Caeſars,</hi> and paying<note n="m" place="margin">Matth. 17.27.</note> tribute to <hi>Caeſar</hi> for himſelfe and and <hi>Peter,</hi> by the hands of <hi>Peter;</hi> though <hi>Peters</hi> ſuppoſed Succeſſors, and they that pretend to <hi>Peters</hi> inſpiration, will pay none. And though our Saviour Chriſt received mani<g ref="char:EOLhyphen"/>fold
+<pb n="18" facs="tcp:114840:12"/> injuries and indignities from unjuſt and faithleſs Go<g ref="char:EOLhyphen"/>vernours, yet he never moved rebellion or reſiſtance, but di<g ref="char:EOLhyphen"/>geſted all with patience and obedience, knowing that the powers that be, are ordained of God: telling <hi>Pilate,</hi> that un<g ref="char:EOLhyphen"/>juſt Iudge, that his power was given him from above; for the rule is given of the Lord, and the power of the moſt high. And by mee Kings raigne ſaith hee that had the wiſdome of God given unto him. <hi>Prov.</hi> 8 15. And ſaith another<note place="margin">Piſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t. anal. in <hi>M<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 22 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g>
+                     </hi>
+                  </note> God is to be obeyed for himſelf, being cheif Lord: the Magiſtrate is to bee obeyed for God, as being Gods Miniſter or depu<g ref="char:EOLhyphen"/>ty. So that the pattern of Chriſts obedience to temporall powers, muſt bee the platforme of inſtruction in the duty of obedience.</p>
+               <p n="2">2. <hi>Davids</hi> obedience to King <hi>Saul</hi> is very commenda<g ref="char:EOLhyphen"/>ble and remarkable: <hi>Saul</hi> was a<note n="a" place="margin">A Tyrant by abuſe of power not by uſurpa<g ref="char:EOLhyphen"/>tion.</note> Tyrant, and ſought with<g ref="char:EOLhyphen"/>out cauſe or colour to kill <hi>David;</hi> yet <hi>David</hi> often hazar<g ref="char:EOLhyphen"/>ded his life and limbs againſt <hi>Sauls</hi> enemies the Philiſtins, evermore teſtifying his prompt obedience and ſervice to his Soveraign; and when this K. <hi>Saul</hi> (like that other<note n="b" place="margin">Acts 9.1.</note> 
+                  <hi>Saul</hi>) breathing out threatnings and ſlaughter againſt <hi>David,</hi> followed him to the wilderneſſe of <hi>Engedi</hi> (where <hi>Da<g ref="char:EOLhyphen"/>vid</hi> uſed <hi>pia fallacia,</hi> hid himſelfe in a<note n="c" place="margin">1 Sam. 24.4.</note> Cave) and had op<g ref="char:EOLhyphen"/>portunity to cut off <hi>Sauls</hi> head, as well as the lappe<note n="d" place="margin">5</note> of his garment; or if he were timerous to dip his hand in blood, as once <hi>Gregory</hi>
+                  <note n="e" place="margin">Greg. lib <hi>7.</hi> epist. <hi>1.</hi>
+                  </note> willed <hi>Sabinian</hi> to tell the Empe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or exci<g ref="char:EOLhyphen"/>ting him againſt the Lombards, I feare God and am afraid to have any hand in blood: if <hi>David</hi> I ſay had ſuch a qualm of fear come over his heart, lo, the<note n="f" place="margin">1 Sam. 24 8.</note> hands of his ſervants ready to have done it, and ſcarce could be kept from it, on<g ref="char:EOLhyphen"/>ly <hi>David</hi> doth terrifie them from doing it:<note n="g" place="margin">7</note> The Lord keep me from doing that thing unto my Maſter the Lords Anointed. <hi>Dum timuit ol<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um ſervavit inimicum,</hi> as excel<g ref="char:EOLhyphen"/>lently<note n="h" place="margin">Lib <hi>2.</hi> adverſ. parmenianum.</note> 
+                  <hi>Optatus,</hi> in fearing the anointing, he preſerved his enemy. In a word, <hi>David</hi> might have killed <hi>Saul</hi> ſleeping, or if he would not himſelfe do it,<note n="i" place="margin">8</note> 
+                  <hi>Abiſhai,</hi> offered his ſer<g ref="char:EOLhyphen"/>vice, I pray thee let me ſmite him once with a ſpear to the earth, and <hi>I</hi> will ſmite him no more; but ſtill ſee how obe<g ref="char:EOLhyphen"/>dience holds his hands and moves his tongue, <hi>Deſtroy</hi>
+                  <note n="*" place="margin">9</note> 
+                  <hi>him
+<pb n="19" facs="tcp:114840:12"/> not, f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r who can lay his hand on the Lords anointed and be guilt<g ref="char:EOLhyphen"/>leſſe?</hi> And afterward <hi>Saul</hi> being ſlaine, and a certaine A<g ref="char:EOLhyphen"/>malekite hoping to have bin a happy Poſt in telling<note n="k" place="margin">2 Sam. 1.4.</note> 
+                  <hi>David Saul</hi> is dead, and ſhewing <hi>David</hi> that hee haſted<note n="l" place="margin">10</note> 
+                  <hi>Sauls</hi> death, (though<note n="m" place="margin">1 Sam. 31.4.</note> 
+                  <hi>Saul</hi> himſelfe had acted the Prologue of his own death, this made the Epilogue of his life) and brought the Crown in his hand, (a tempting baite to get praiſe or pardon) yet all in vain: how waſt thou not afraid to put forth thy hand to deſtroy the anointed of the Lord? ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<note n="n" place="margin">2 Sam. 1 14 15.</note> 
+                  <hi>David;</hi> and commands his ſervant to give him <hi>legem talionis,</hi> to kill this King-killer, though by conſent and in<g ref="char:EOLhyphen"/>treaty.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Sic pereant, &amp; qui moliri talia pergunt.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Good God, thou King of Kings, ſo let them periſh,</l>
+                     <l>Who 'gainſt thy <hi>Charles</hi> ſuch bloody deeds do cheriſh.</l>
+                  </lg>
+               </q>
+               <p>And now what doe all theſe particulars ſummed up to<g ref="char:EOLhyphen"/>gether inferre, but this <hi>Ecce?</hi>
+                  <note n="o" place="margin">Iohn 1.47.</note> Behold a true Iſraelite in whom is no guile; behold a good ſubject indeed, in whom is no treaſon: behold a man after Gods owne heart, who from his ſoule hateth and abhorreth the very name and thought of Rebellion, his heart<note n="p" place="margin">1 Sam. 24, 6.</note> ſmiting of him but for cut<g ref="char:EOLhyphen"/>ting of the lap of <hi>Saules</hi> garment: after whoſe heart then thoſe men are, who now a dayes cut off from a <hi>David</hi> all Regall ornaments, deveſt him of all enſignes of Royall Majeſty, and cloath him with nothing but the foule gar<g ref="char:EOLhyphen"/>ments of reproach and ſlander; I leave to all the world to judge. How unlike are the wayes of this ſonne of God, to thoſe who would bee thought the ſonnes of God in theſe dayes, Popiſh Ieſuits of the Sea of Rome, and (oh wonder!) thoſe Lord and Commons who call themſelves the Parlia<g ref="char:EOLhyphen"/>ment of England? <hi>David</hi> labours to ſpeake his mind to <hi>Saul,</hi> theſe labour to hinder <hi>David</hi> to ſpeake his mind to them; <hi>David</hi> manifeſted himſelf upon all occaſions obedient and loyall to his Soveraigne, though wicked, that ſo, evinced thereby hee might become good; theſe upon all
+<pb n="20" facs="tcp:114840:13"/> opportunities declare their diſobedience and diſloyalty to their Soveraigne though good, and to colour their Rebelli<g ref="char:EOLhyphen"/>ons would fame make the people beleeve that he is wicked; and ſhould be, if they could make him ſo either by flattery or force: <hi>David</hi> deſired nothing more than to come to a<note n="q" place="margin">1 S<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. 24 9. &amp; 26.14</note> Perſonall Treaty, that ſo the truth might appear, and the innocent be acquitted: Theſe abhor the thought of a Per<g ref="char:EOLhyphen"/>ſonall Treaty, and Vote it treaſon for any man to ſpeak from or to him, leaſt their ambitious villanies ſhould be detected, and our poore oppreſſed Kings wronged innocence mani<g ref="char:EOLhyphen"/>feſted, and honour vindicated. Laſtly <hi>David</hi> in all his conſultations and actions, did endeavour to evi<g ref="char:EOLhyphen"/>dence himſelfe faithfull in his obedience, and a patterne of Loyalty to all generations, adventuring his body and blood for the ſervice of <hi>Saul,</hi> in defence againſt his enemies, the Muſter-roll of whoſe battailes for <hi>Sauls</hi> well-fare is record<g ref="char:EOLhyphen"/>ded in holy Scripture<g ref="char:punc">▪</g> from the xvii. Chapter of the firſt of <hi>Samuel</hi> almoſt to the end of that Booke, the glorious Tro<g ref="char:EOLhyphen"/>phy of the fidelity of an obedient Subject. But all the coun<g ref="char:EOLhyphen"/>ſels and practiſes of the Lords and Commons now ſitting at <hi>Weſtminſter</hi> have wholy tended to advance diſobedience, and manifeſt themſelves the Preſidents of diſloyalty and rebellion to all other nations and future ages, engaging, not many of their own bodyes, I confeſſe, or much of their own blood; but many thouſand of bodyes, and an ocean of the blood of poore ſeduced and deluded Chriſtians their fel<g ref="char:EOLhyphen"/>low ſubjects, for the pulling downe their religious King, a <hi>David,</hi> and utter ruine and deſtruction of all his faithfull freinds and loyall ſubjects, the Muſter-roll of whoſe battails for King <hi>Charles</hi> his ſubverſion and depoſing is hung out at moſt Pamphlet-ſellers ſtalles, the glaring Trophy of the diſloyalty, of ſuch impudent unmatchable Rebels: So that <hi>I</hi> well ſay with <hi>Toxaris</hi> to <hi>Anacharſes</hi>
+                  <note n="ſ" place="margin">Lucianus in S<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tina.</note> 
+                  <hi>viſo Solone vidiſti omnia,</hi> here I can ſhew you the two wonders of the world at once. Looke upon <hi>David</hi> and you ſhall ſee the wonder and pattern of Loyalty and Obedience; Looke upon that thing at <hi>Weſtminſter,</hi> which calls it ſelfe a Parliament, com<g ref="char:EOLhyphen"/>paſſed round with their Army of Sts. as they tearm them,
+<pb n="21" facs="tcp:114840:13"/> and there behold the wonder and preſident of Diſloyalty and Rebellion. In their Declarations and Remonſtrances read principles fit to direct Traytors: in his Precepts and Practice read Doctrines ſufficient to inſtruct faithfull ſub<g ref="char:EOLhyphen"/>jects: and if that be not ſufficient nothing will ſuffice.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> But the enemies of <hi>Charles</hi> reply and ſay; We ought to be obedient and ſubject to good Kings, but if they bee bad wee may reſiſt and deny our obedience to him, yea good men may ſend him to his grave: and indeed this Doctrine, <hi>to depoſe a King, diſpoſe of his Kingdome, and deprive him of his life,</hi> if he be not (as the Ieſuites count) Catholique, (as this Parliament counts) Proteſtant, the treacherous Ieſuites at <hi>Rome,</hi> and our Rebellious new-lighted Saints at <hi>Weſtminſter,</hi> doe with an equall heightned fury of blind zeale, labour to maintaine by their publiſhed ſeditious Pa<g ref="char:EOLhyphen"/>pers; and where their Pens faile, their Pikes, priſons, yea poyſons make good: as you may read Page the ſeventh both their wayes of proving their Arguments are.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> 
+                  <hi>Anſwer.</hi> It is an eaſie task to ſhew that loyall obedience is to be performed to wicked Kings: as our former Inſtan<g ref="char:EOLhyphen"/>ces of the beſt note, <hi>Chriſts</hi> obedience, and <hi>Davids</hi> obedi<g ref="char:EOLhyphen"/>ence to <hi>Saul,</hi> make it manifeſt; it is due to them, <hi>omni jure naturali, civili, morali, municipali, divino;</hi> By the Law of nature, civill, morall, municipall, divine: wee will only prove it due by the laſt, by divine Law; if that prove it, who dare deny it? The Apoſtle <hi>Rom.</hi> 13.1. makes the matter plaine. <hi>Let every ſoule be ſubject to the higher Pow<g ref="char:EOLhyphen"/>ers, for there is no power but of God, &amp;c.</hi> From which place I argue thus; <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l Powers that are ordained of God, muſt be obeyed: The higher Powers (be they good or bad) are orday<g ref="char:EOLhyphen"/>ned of God.</hi>
+               </p>
+               <l>
+                  <hi>Ergo—to be obeyed.</hi>
+               </l>
+               <p>We may corroborate theſe two propoſitions by manifold places, as <hi>Proverbs</hi> 8.15: <hi>By mee Kings Reigne, &amp;c. Iob</hi> 36.7. He placeth them as Kings in their Thrones for e<g ref="char:EOLhyphen"/>ver. Sometimes God ſuffers the hypocrite to reigne, <hi>Iob</hi> 34.30. I gave thee a King in my anger, and tooke him a<g ref="char:EOLhyphen"/>way in my wrath, faith the Lord to <hi>Iſrael, Hoſea</hi> 13.11.
+<pb n="22" facs="tcp:114840:14"/> Thou couldeſt have no power except it were given thee from above, ſaid Chriſt to <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>il te, Iohn</hi> 19 11. Give care all you that rule the people, all your power is given of the moſt High, <hi>Wiſd</hi> 6.3 Touch not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine anointed, 1 <hi>Chr.</hi> 16.22. be they good, be they bad touch them not;<note n="a" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 12.19</note> ven<g ref="char:EOLhyphen"/>geance is the Lords, not mans. M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n muſt not meddle in Gods matters; W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<note n="b" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 paragraph">
+                        <desc>〈1 paragraph〉</desc>
+                     </gap>
+                  </note> can lay hi ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds on the Lords A<g ref="char:EOLhyphen"/>nointed, and be guiltleſſe? Though they grow defective in their high office, yet ſtill remain King<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, becauſe e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thro<g ref="char:EOLhyphen"/>ned by God: By whoſe command men are borne, by his command doe Princes reigne <note n="c" place="margin">Irae<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note>, ſaith <hi>Iraeneus.</hi> Thence have Princes their power whence they have their breath<note n="d" place="margin">T<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ul <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note>, ſaith <hi>Tertullian:</hi> The Kings Commiſſion is ſealed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the hand of God, and though it runne, During the good will and pleaſure of God, yet man, yea a<note n="*" place="margin">2 <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 4.</note> Parliament can<g ref="char:EOLhyphen"/>not, nay muſt not cancell it, for that were to warre with God.</p>
+               <p>The wiſe<note n="e" place="margin">B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. ſive <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſi<g ref="char:EOLhyphen"/>ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te deo. Aug conte Faust Ma<g ref="char:EOLhyphen"/>nich <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>22.</hi> c. <hi>7.</hi>
+                  </note> Heathen ſaith, the power of good Kings is by the ſpeciall ordinance of God, of evill by his per<g ref="char:EOLhyphen"/>miſſion; the firſt are badges and pledges of his mercy; the ſecond are the ſcourges of his furie. So<note n="f" place="margin">Eſay 10.5</note> God called <hi>A<g ref="char:EOLhyphen"/>ſhur</hi> the rod of his wrath; and <hi>Attyla</hi> called himſelfe the ſcourge of God: and <hi>Tamberlaine</hi> in his time termed, the revenge of God, and terror of the World. <hi>Saul</hi> was a Tyrant King, yet <hi>David</hi>
+                  <note n="g" place="margin">1 Sam. 24 6</note> trembled to touch the skirts of his garment: What greater Tyrant than King <hi>Pharaoh?</hi> yet <hi>Moſes</hi> neither had, nor gave any Commiſſion to the <hi>Iſ<g ref="char:EOLhyphen"/>raelites</hi> to rebell; he makes no Law, or Booke, either to diſpoſe or depoſe him from his Kingdome. <hi>Nebuchaanezzar</hi> a wicked and Idolatrous King, yet God<note n="h" place="margin">Jerem. 25.9.</note> calls him his Servant; and though he commands the three children to be put into the fiery<note n="i" place="margin">
+                     <hi>D<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> 3.21</hi> A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ud eſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erva<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> me, aliud <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> Ove<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, they offer no violence or reſi<g ref="char:EOLhyphen"/>ſtance, but commend their ſoules to God, and commit their bodies to the King.</p>
+               <p>Saint<note n="k" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>Peter</hi> who wrot his Epiſtle in the time of the raigne of that wicked Emperour <hi>Clandius,</hi> as<note n="l" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>Baronius</hi> conjectured, exhorts all people to feare God, and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the King 1 <hi>Pet.</hi> 2 17. and that for <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:114840:14"/> 
+                  <hi>v.</hi> 13. yet this <hi>Claudius</hi> was a moſt wicked Emperour main<g ref="char:EOLhyphen"/>taining many Ethnick ſuperſtitions and the worſhip of <hi>I<g ref="char:EOLhyphen"/>dols,</hi> he was (as <hi>Suetonius</hi>
+                  <note n="*" place="margin">Sueton. c. <hi>34.</hi>
+                  </note> writes of him) by nature cruel, bloody, &amp; libidinous, yet to this Emperour a tyrant and an infidell, S. <hi>Peter</hi> exhorts the faithfull Iews to obedience: S. <hi>Paul</hi> who lived under the ſame Emperour, (as<note n="a" place="margin">Rhemiſt. in tab. Paul.</note> ſome doe thinke) writes to the Romans the Emperours ſubjects, ex<g ref="char:EOLhyphen"/>horts all to ſubmit themſelves, not in any colourable or diſ<g ref="char:EOLhyphen"/>ſembled obedience, but <hi>ver.</hi> 4. for conſcience ſake. Let us heere a voyce or two of the ancient Fathers that lived in old time: <hi>Tertullian</hi> (who as<note n="b" place="margin">In Catal ſcrip<g ref="char:EOLunhyphen"/>tor. Eccleſ.</note> 
+                  <hi>Jerome</hi> ſaith) flouriſhed un<g ref="char:EOLhyphen"/>der the raigne of <hi>Severus</hi> the Emperor, who was a great Tyrant, an Infidell, and an enemy to Chriſtianity, who in the fift perſecution after <hi>Nero,</hi> troubled the Chriſtian world with moſt cruell perſecution (as<note n="c" place="margin">Baron, An. Christ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>205.</hi>
+                  </note> ſome write) yet teacheth that all ſubjects ſhould both <hi>Bene velle, bene dicere, &amp; bene facere,</hi> wiſh well, ſpeak well, and do well for the Emperor, the which threefold <hi>Bene</hi> comprehends all loyall dutyes: The firſt <hi>Ad Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 2. <hi>Ad Linguam.</hi> 3 <hi>Ad opus;</hi> as the<note n="*" place="margin">Ianſen. c. <hi>40.</hi> Concord.</note> 
+                  <hi>Jeſu<g ref="char:EOLhyphen"/>ite</hi> rightly <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, in thought, word, and deed, to be obe<g ref="char:EOLhyphen"/>dient. So <hi>Iuſtin</hi>
+                  <note n="*" place="margin">Apolo <hi>2</hi> ad An<g ref="char:EOLhyphen"/>ton: Imperat.</note> 
+                  <hi>Martyr,</hi> in the name of all Chriſtians ſpeaks to the Emperor <hi>Antoninus.</hi> an infidel and a perſecu<g ref="char:EOLhyphen"/>tor<note n="d" place="margin">Bellar. in Chro<g ref="char:EOLhyphen"/>nol.</note> in theſe words. Wee worſhip onely God, and in other matters are joyfull to ſerve you. So Saint<note n="e" place="margin">Ambroſ Epiſt. lib. <hi>5.</hi> Epiſt. <hi>33.</hi>
+                  </note> 
+                  <hi>Ambroſe</hi> would not wiſh the people of <hi>Millan</hi> to diſobey the Em<g ref="char:EOLhyphen"/>perour <hi>Valentinian,</hi> yet a favourer and a follower of the <hi>Arrian</hi> Hereſy: If the Emperor (ſaith he) abuſe his impe<g ref="char:EOLhyphen"/>riall authority, to tyrannize thereby, here I am ready to ſuf<g ref="char:EOLhyphen"/>fer death; we as humble ſuppliants, flye to ſupplication: if my patrimony be your mark, enter upon it; if my body, I will meet my torments: ſhall I bee dragged to priſon or death? I will take delight in both: Oh Theologicall voice, Oh Epiſcopall obedience. Theſe were the voices of the holy Fathers in the ancient times: I but will the Adver<g ref="char:EOLhyphen"/>ſaryes to the regall ſupremacy reply, the times muſt be conſidered, the people wanted power to reſiſt. No, no, that was not the matter: when <hi>Iulian</hi> did dominere, who
+<pb n="24" facs="tcp:114840:15"/> was an Apoſtate and an Idolater, as<note n="f" place="margin">Auguſt in Pſ. <hi>124.</hi>
+                  </note> 
+                  <hi>Auſtine;</hi> yet his ſoul<g ref="char:EOLhyphen"/>diers, who were for the moſt part Chriſtians, did obey him without reſiſtance in all military matters and publique ſer<g ref="char:EOLhyphen"/>vices, yet they then had power to have reſiſted him; for moſt of <hi>Julian:</hi> Army did conſi t of Chriſtians, as their voices to <hi>Io<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inian</hi> his Succeſſor declare;<note n="g" place="margin">R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff. lib hiſt. c. <hi>1.</hi>
+                  </note> 
+                  <hi>Ruffinus</hi> records that with a generall voice they all confeſſed themſelv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Chriſtians: So <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ustantius</hi> and <hi>Valens</hi> wicked Emperours, and favourers of the <hi>Arrian Hereſie,</hi> yet wee do not read of any of the Orthodox Chriſtians that diſobeyed them by rebellion or reſiſtance. Then <hi>Bellarmines</hi>
+                  <note n="h" place="margin">Bellar. lib. <hi>5</hi> de Rom. Pon. c. <hi>7.</hi>
+                  </note> doct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine was not in date. It is not lawfull for Chriſtians to tollerate an hereticall King: Nor were thoſe reaſons, for the Commons depoſing their King at their pleaſure, ſo much as thought on then, though of late publiſhed by the ſcribling creatures of this Parliament, and borrowed from that their fellow re<g ref="char:EOLhyphen"/>bellion fomenting Cardinal, the people may at their plea<g ref="char:EOLhyphen"/>ſure depoſe their K. b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cau e <hi>Reges coronas &amp; ſceptra ab homi<g ref="char:EOLhyphen"/>nibus recipiunt, &amp; ad corum placita tenent,</hi> Kings doe receive their Crownes and Scepters from men,<note place="margin">Ego unxite in regem ſuper Iſ<g ref="char:EOLhyphen"/>rael.</note> and hold them at their pleaſures. Strange ſtuffe: for Kings receive their Crownes from God, as <hi>Pſal.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.3. And are enthroned by God, By me Kings raigne, <hi>Pro,</hi> 8.15. They receive their throne from God, as Queen<note n="i" place="margin">2 Sam. 12.7.</note> 
+                  <hi>Sheba</hi> tells <hi>Salomon; Diadema regis in manu Dei,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2 Chro 9.8</note> 
+                  <hi>Eſay</hi> 62 3. <hi>Sedebat Salomon in throno Dei.</hi> 1 <hi>Chron</hi> 29 23. <hi>Reges in ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lio c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llocat in perpetuum, Iob</hi> 36, 7. the anointing is Gods, With my holy oyle have I anointed him, <hi>Pſal.</hi> 89.20. The Crowne, the Scepter, the Throne, their annointing, all from God; ſtiled by God, <hi>
+                     <g ref="char:V">Ʋ</g>ncti Dei,</hi> Gods annointed. Where is the Popes or peoples claime? what intereſt have any (except God) in Kings Crownes? who can remove whom God appoints? who can deprive whom God approves? yet theſe abſurd errors, the corrupt leaven of <hi>Romes</hi> Phariſees and <hi>Weſtminſters</hi> Paraſites, are moulded out by the mouthes of Cardinals and Ieſuites, and taſted by the Sectaries and Levellers of this Iſland by their pens republiſhed, both being indeed agreed in this, to be<g ref="char:EOLhyphen"/>come
+<pb n="25" facs="tcp:114840:15"/> Trumpeters to the world, and ſound forth falſe alarms of diſobedience to encourage peoples rebellion. But lea<g ref="char:EOLhyphen"/>ving them, let us liſten to <hi>Solomon</hi> (who was wiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r then them both) whoſe rule is,<note n="k" place="margin">Pro. 24.21.22</note> 
+                  <hi>My ſonne fear thou the Lord and the King, and meddle not with them that are ſeditious, f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r their deſtruction ſhall riſe ſuddenly, and who knoweth the rui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f them both?</hi> Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us learne this leſſon from our<note n="l" place="margin">M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tth. 22.21.</note> Sa<g ref="char:EOLhyphen"/>v our, to give unto <hi>Caeſar</hi> that which is <hi>Caeſars:</hi> to give loyall obedience, for it is <hi>Caeſars</hi> royall due. So our Saviour<note n="n" place="margin">Mat. 23 2, 3.</note> againe commands the multitude that they ſhould obey the Scri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es and Phariſees, who did ſit in <hi>Moſes</hi> c aire, to obſerve and doe what they did command. In all things (not repugnant to Gods Lawes) wee muſt and ought to o<g ref="char:EOLhyphen"/>bey Kings; yet if they command contrary to Gods com<g ref="char:EOLhyphen"/>mands, then we muſt follow the<note n="o" place="margin">Acts 4.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Apoſtles rule and prac<g ref="char:EOLhyphen"/>tiſe, rather to obey God then man; and to remember St.<note n="p" place="margin">Aug. 11. <hi>quae. c.</hi> 3.</note> 
+                  <hi>Auſtin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> counſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, It God command one thing, and the Em<g ref="char:EOLhyphen"/>peror another thing; what judgeſt thou to be done? Gods power is greater, give leave O Emperor, thou doeſt threa<g ref="char:EOLhyphen"/>ten priſon, but God hell. God that made theſe Gods ought to be obeyed before them, and duty bindes, that God who is the King of Kings, the maker and maſter of all Kings (<hi>omnes Reges ejus pedibus ſubjecti,</hi> all Kings ſubject, and ſubjects of that great King) ſhould be obeyed by them all, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> before them all.</p>
+               <p>Yet for all this wee muſt not rebell againſt a King,<note place="margin">Regis voluntas fiat aut a nobis, aut de nobis.</note> if hee command contrary to Gods Lawes, but imitate the three children,<note place="margin">
+                     <hi>Theoph.</hi> in Luc. cap <hi>20.</hi>
+                  </note> obey in body, and reſiſt in ſpirit. <hi>Theophylact</hi> ſaith, wee muſt proſtrate our ſelve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the King, who hath power over our bodyes, be he a King or a Tyrant, for this nothing hinders us ſpiritually to pleaſe the God of our ſoules: nay we cannot be truly ſaid to obey and pleaſe God; if we reſiſt and contemn the ſupream Ruler, the King: the contempt that is off<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red to them being offered to God him<g ref="char:EOLhyphen"/>ſelfe, as the Lord ſaid to <hi>Samuel;</hi> They have not caſt thee away, but they have rejected mee that <hi>I</hi> ſhould not raigne over them. 1 <hi>Sam.</hi> 8.7. and the Apoſtle ſaith whoſo<g ref="char:EOLhyphen"/>ever reſiſteth the power, reſiſteth the Ordinances
+<pb n="26" facs="tcp:114840:16"/> of GOD, and ſhall receive to himſelfe damnation.</p>
+               <p>How long then! how long (oh my deare, but ſtupified Countrey-men) will you permit your ſelves to be delu<g ref="char:EOLhyphen"/>ded by a crew of ambitious, covetous, and yet blinde guides? How long will you ſuffer your ſelves to bee gui'd out of your propriety and true liberty, and lead tamely in<g ref="char:EOLhyphen"/>to ſo dangerous a ſinne as King reſiſting? How long will you flatter your ſelves with the hope of Liberty, under the Anarchy of a pack of ſuch matchleſſe Tyrants, who intend nothing more than your Vaſſallage and deſ rved ſlavery? Will yee not yet ſee your owne miſery? Will you be fool'd out of your Religion, the pure Goſpell of Ieſus Chriſt, by a company of wilde headed Sectaries and factio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Beggars, under that venerable name, and great good of our Nation, if not abuſed, (as it is now) a Parliament? Doe you ever hope to enjoy the joy and deſire of each good Chriſtians heart, Truth and Peace, under thoſe who are enemies to both? For if they were not enemies to the firſt, they would not countenance ſuch lying, at beſt but equivoca<g ref="char:EOLhyphen"/>ting, double-ſence bearing Treatiſes and Pamphlets, to be publiſhed: and ſtifle all other the writings of ſuch honeſt men as would anſwer ſuch falſe Propoſitions, overthrow ſuch principles, and make the truth in Ieſus Chriſt appear; to the ſatisfaction of the whole world, how your judge<g ref="char:EOLhyphen"/>ments are abuſed by theſe Impoſters juglings. If they were not enemies to Peace alſo would they hold up the ſword ſtill meerely to ſupport thereby Rebellion-acquired Power over you their fellow ſubjects, and to hold the King in his preſent Captivity contrary to the Law of Nature, of Na<g ref="char:EOLhyphen"/>tions, of this Kingdome yea of God himſelfe, who forbids reſiſting (as you have heard proved) much more reſtraining or impriſoning Kings.</p>
+               <p>
+                  <hi>Object.</hi> Ah but you will ſay we have ſeen their late De<g ref="char:EOLhyphen"/>claration in which they ſatisfie us with the Reaſons of their proceedings w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th the King, and labour to poſſeſſe us with a beliefe that they are able to prove againſt him ma<g ref="char:EOLhyphen"/>ny ſoule Crimes before his comming to the Crowne, and many tyrannous practiſes and oppreſſive enormities du<g ref="char:EOLhyphen"/>ring his reigne?</p>
+               <pb n="27" facs="tcp:114840:16"/>
+               <p>
+                  <hi>Anſw.</hi> It is true indeed that they have beene very care<g ref="char:EOLhyphen"/>full that their Declarations ſhould come to your hands, for ſo they know they ſhall blinde you ſo that you ſhall not ſee their blaſphemous Forgeries againſt a vertuous Prince, and one as free from thoſe crimes with which they ſeeme to charge him as the Sun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e is from darkneſſe, or their owne ſ ules from helliſh darkneſſe. Were their accuſations not, falſe and malitious, they would never ſuppreſſe, impriſon and declare thoſe faithfull diſpenſers of the truth, Traitors, who deſire to write in his vindication, and take ſuch ſpe<g ref="char:EOLhyphen"/>ciall care that as few of ſuch Books as diſcover their falſi<g ref="char:EOLhyphen"/>ties ſhal come to ſight, but never to anſwer any of them, for indeed they are unanſwerable; but by thoſe their common Arguments the Axe, the Halter, the Goale, or baniſhment.</p>
+               <p>If they would ſatisfie the world of the lawfulneſſe of their proceedings, let them, if they can, anſwer Dr. <hi>Ferne</hi> his Summary anſwer concerning Conſcience ſatisfied of the unlawfulneſſe and damnableneſſe of their reſiſt<g ref="char:EOLhyphen"/>ing, and ſince impriſoning, and depoſing the King, and diſpoſing his Kingdome without yea againſt him: Iudge <hi>Ienkins</hi> his Remonſtrance, the Plea for the Lords; and D<hi rend="sup">r</hi> 
+                  <hi>Huttons</hi> Divine Right of Government: and if you (my deluded Countrey-men) deſire rightly to ſatisfie your Conſciences buy and read thoſe Books, and I beſeech you as you deſire not to bee more ſeduced and deceived, read none of their licenced Books, unleſſe you are firſt ſatis<g ref="char:EOLhyphen"/>fied that a free liberty is granted to any man that will, to anſwer them, for they are ſpells caſt abroad to bewitch you into Rebellion, and venemous principles preſcribed by the State Mountebanks <hi>Walker, Martin,</hi> and others; to poiſon your obedience and Loyalty,</p>
+               <p>If they would bee believed to have any reall charge a<g ref="char:EOLhyphen"/>gainſt his Majeſty, Let them anſwer Maſter <hi>Simons</hi> his Vin<g ref="char:EOLhyphen"/>dication of the King, or permit his Majeſty to anſwer for himſelfe, (by the aſſiſtance of ſuch Secretaries and others that ſhall be needfull to helpe his memory, and to do him ſuch other ſervice as ſhall bee requiſite therein) and let the writings and anſwers of the one ſide bee as freely pub<g ref="char:EOLhyphen"/>liſhed
+<pb n="28" facs="tcp:114840:17"/> and peruſed, as the Declarations &amp; Papers or Pamph<g ref="char:EOLhyphen"/>lets of the other ſide: in a word, let the plaine letter of the Law decide the Controverſie, not the ſwo d and their wilfull Votes; for what juſt ſentence can be expected when they will be Iu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ges, and yet are parties in the ſame mat<g ref="char:EOLhyphen"/>ter? If they ſhall deny this, I have juſt cauſe to conclude, that that Declaration of theirs, and all other B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oks licen<g ref="char:EOLhyphen"/>ced by them have more venome in them to poyſon the yet Loyall hearted, and diſ-unite the hearts of the Kingdome from his Majeſty, than vertue to ſalve up the breaches of this diſtracted Nation. And (my diſcreet Countrey-men) will you betray ſo much levity and eaſineſſe of beliefe as to receive that for ſolid matter which dares not endure the examination and tryall of a juſt reply? No: let it b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſh all other impreſſions thereof from y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u, but of hatred u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to ſuch unrighteous practiſes; and looke upon it as the bone and poyſon of Aſpes ſpot abroad to envenome your ſoules, reſolving never to believe more therein, than themſelves dare ſpeake or utter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> meane concerning the death of the King his Father) and yet ſpeake much more tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they are able to prove, Now if you deſire to be armed with un<g ref="char:EOLhyphen"/>moveable reſolutions, and ſufficiently fortified againſt the dangerous poyſon and deadly venome of that their Decla<g ref="char:EOLhyphen"/>ration and all other their Pamphlets: take next your heart the Antidote preſcribed againſt the infectious Aire therof, or a ſhort <hi>Reply unto the Declaration of the</hi> 11<hi rend="sup">th</hi> of <hi>Febr.</hi> 1647. But leaſt you ſhould not know how to furniſh your ſelves with ſo Soverai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne a Cordiall (it being very hard to be got) and yet not wholly un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh'd therof, I have made bold (for which I crave that worthy Authors, and the wel<g ref="char:EOLhyphen"/>wiſhers pardon) to tranſcribe ſo much of that Epitome of true hearted Loyalty as ſhall ſerve to our preſent purpoſe, ſet forth in our Title Page.</p>
+               <floatingText xml:lang="eng" rend="margQuotes" type="document">
+                  <body>
+                     <head>A Briefe of the briefe Reply to the Declaration of the Houſe of Commons.</head>
+                     <p>We have read your Declaration, and have thought good
+<pb n="29" facs="tcp:114840:17"/> to give you this ſhort account of thoſe impreſſions that it hath left with us. The death of the late King, is (we con<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſs) a matter indeed of a very high nature; and though you are loath to expreſs your ſelves therein, yet it is not hard to diſcerne what thoughts you would thereby commend unto us. But if you can clearely make good what you intend, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hy did you not ſpeak it plainly? If you cannot, why do <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ou go about by malicious art to inſinuate that which you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e not able to make good? Men that are under the power of others, uſe indeed ſometimes to ſpeak timerous verities: But where men armed with greatneſſe and ſtrength, ſpeake fearfully, there the truth is in danger.</p>
+                     <p>Can you thinke to perſwade us, that the honour of ſo great a King, or his juſt power and Rights, are to be layd u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>derfoot upon ſurmiſes, and uncertain conjectures, whoſe grounds and foundations are rather in the apprehenſions of men variable according to the va<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iety of their affecti<g ref="char:EOLhyphen"/>ons, then in the reallity of things or actions? When events are liable to divers cauſes, and thoſe that have their reſi<g ref="char:EOLhyphen"/>dence within the breaſts of men, to fixe them upon one without any ſound reaſon for the choice, but becauſe it ap<g ref="char:EOLhyphen"/>pears mo t ſerviceable to our purpoſes, is a fallacy of too o<g ref="char:EOLhyphen"/>pen a colluſion; That wee ſhould truſt our judgements with it in ſo great a matter, and therefore ſince you have proved nothing againſt his Majeſty, in that particular, we cannot but inferre, that all that you want of evidence againſt him lyeth againſt your ſelves, and doth convince you to have committed as high an offence againſt the duty of Subjects, as againſt the candour of Chriſtians.</p>
+                     <p>But ſecondly, in caſe it could be proved, and ſo fully, ſo demonſtratively proved, as is requiſite to overcome that larg portion of Charity which is due unto a King above all other ſorts of men, and to him for ought wee know above all other Kings (much the more for the ſad condition wherein you keep him) proved ſo clearly as to bee victori<g ref="char:EOLhyphen"/>ous over ſo many and ſo diſſwaſive improbabilities that preſent themſelves in array againſt it: we ſhould indeed even then admit it with great reluctancy as a truth, that it
+<pb n="30" facs="tcp:114840:18"/> might bee thought a kind of impiety to underſtand; wee ſhould then (when we muſt needs) looke upon it as a ſad and great affliction unto our Nation, and as a great cauſe of humiliation (not of triumph or inſulting) unto us, That God ſhould ſuffer our King to fall into ſuch a depth of impiety, for the ſins of the Magiſtrate as of the Miniſter, are uſually the iudgements of a people for their ſins: But yet nevertheleſſe, we ſhould hold it our duty even in that caſe to cry out with the holy Prophet, <hi>Micha</hi> 7.9. <hi>We will beare the indignation of the Lord, becauſe wee ha e ſinned a<g ref="char:EOLhyphen"/>gainst him,</hi> &amp;c. And to ſet our ſelves to the duties of Fa<g ref="char:EOLhyphen"/>ſting, and Prayers, and Fears, for the lamentation and ex<g ref="char:EOLhyphen"/>piation of ſo horrid an iniquity from his Maieſty and the Kingdome.</p>
+                     <p>But we could not be perſwaded that it were a Chriſtian courſe for us to make his iniquity the countenance or excuſe of ours: or admit it as a ſuperſedeas or diſcharge of the bond of our allegeance, though it ſhould render it indeed much diſcomfortable unto us; for as a child owes his fili<g ref="char:EOLhyphen"/>all honour and obedience not to a good father, but to a fa<g ref="char:EOLhyphen"/>ther, be he good or bad; as ſervants owe ſubjection with all feare, not to a good maſter but to a maſter be he good or froward. 1 <hi>Pet,</hi> 2.18. (if that be ſcriptu e with them) and wives ſubjection n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t to a believing husband, but to a huſ<g ref="char:EOLhyphen"/>band he be a beleever or an unbeleever. 1 <hi>Pet</hi> 3.1. compa<g ref="char:EOLhyphen"/>red with 1 <hi>Cor</hi> 7 13. So ſubjects owe their allegiance not to a good King, but to a King.</p>
+                     <p>And though wee deny not but Potentates may forfeit their Crownes by their impieties, yet the holy Word of God leades us to beleeve that none is thereby enabled to take that forfeiture but God; <hi>Saul</hi> forf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ited his Crown by his Sacrilegious intruſion into the Office and Function of the Prieſthood, 1 <hi>Sam.</hi> 13.8, &amp;c. and doubled that forfei<g ref="char:EOLhyphen"/>ture by his diſobedience unto the command of God con<g ref="char:EOLhyphen"/>cerning <hi>Agag</hi> and the ſpoyle, 1 <hi>Sam.</hi> 15.9, &amp;c. And God both times proceeds to ſentence againſt him: but yet none muſt take the forfeiture, nor put the ſentence in execution, till God himſelfe was pleaſed to do it: And therefore not<g ref="char:EOLhyphen"/>withſtanding
+<pb n="31" facs="tcp:114840:18"/> all that <hi>David</hi> durſt not lift up his hand a<g ref="char:EOLhyphen"/>gainſt him, 1 <hi>Sam.</hi> 24 &amp; 26. <hi>David</hi> himſelfe afterwards, though an holy man, yet was ſo far left unto himſelfe for a time by God, that hee fell into two horrid and unworthy ſinnes: baſe in the eyes of men, as well as hainous in the ſight of God: Firſt committing adultery with <hi>Bathſheba,</hi> at ſuch a time when her husband, whom hee ſo vilely wronged therein, was imployed in the hazarding of his life to doe his ſervice: and then to cover that, treacherouſ<g ref="char:EOLhyphen"/>ly contriving and procuring his murther: and yet this was no good plea to juſtifie <hi>Abſalom,</hi> or the ſonne of <hi>Bichr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> in their rebellions, no nor yet <hi>Shimei</hi> in his foule-mouthed railing againſt him for it: But all of them in their times were overtaken with their rewards; and <hi>David</hi> yet ended his dayes in peace, being reconciled to God by his repen<g ref="char:EOLhyphen"/>tance. <hi>Nero</hi> was as it were a Devil incarnate, ſo bad that his wickedneſſe added glory to the perſecutions of thoſe that ſuffered by him: And <hi>Tertullian</hi> uſeth it as an argument to prove Chriſtianity to be good, becauſe <hi>Nero</hi> oppoſed it; He made it his ſport to ſee his owne Imperiall City ſet on fire before his face; and when he had done, cauſed it moſt falſly and wickedly to be laid upon the Chriſtians. And em<g ref="char:EOLhyphen"/>brued his hands in the blood of his own Mother; and yet it is obſerved this very <hi>Nero</hi> was then Emperour and Go<g ref="char:EOLhyphen"/>vernour of the Romanes at that very time when Saint <hi>Paul</hi> wrote unto them to be ſubject unto the higher powers, and tels them withall, that <hi>whoever reſiſts ſhall receive to himſelfe damnation.</hi> Let not any think that in this we plead for the wickednes of Kings, but for their impunity from men; for the preſervation of Government, the good of the people.</p>
+                     <p>Nor would we wiſh any to imagine that we think theſe patterns of wickedneſſe have any ſuch paralells in his ſa<g ref="char:EOLhyphen"/>cred Majeſtyes ſtory, if it may be truly ſet downe as ſome would perſwade: but only to ſhew the unforcibleneſſe of ſuch kind of deductions as our dayes have produced: and if it may be, to prevent the like hereafter. And to ſa<g ref="char:EOLhyphen"/>tisfie all men, who will be ſatisfied, that for all your
+<pb n="32" facs="tcp:114840:19"/> concluſions that you draw ſo hard for, that you have even broken your Geeres: we are yet to ſeek for a ſound reaſon why the King ſhould be ſecluded from his Government, or from the addreſſe of a Parliament unto him, but only upon your bare averrements; <hi>Si ſatis eſt accuſaſſe, quis tan<g ref="char:EOLhyphen"/>dem innocens?</hi> God himſelfe ſhould not be innocnt, if to be accuſed were to be convicted: we hold it therefore moſt unjuſt and unreaſonable for us to admit any of thoſe aſperſions which you have laid upon his Majeſty in<g ref="char:EOLhyphen"/>to our beleife, or to make any reſults at all upon them in the leaſt degree prejudiciall to his Majeſty in our opini<g ref="char:EOLhyphen"/>ons, untill we ſhall ſee as well what his Majeſty can an<g ref="char:EOLhyphen"/>ſwer as what you have objected againſt him: for ſince it is a juſtice not to bee denied to the meaneſt of Subjects, nay, to the greateſt ſlaves, that they have liberty to ſpeake for themſelves, before iudgement be given upon their ac<g ref="char:EOLhyphen"/>cuſation: we muſt tell you that we hold it a thing againſt all equity and right, for you to take the freedome to ſay what you pleaſe againſt his Maieſty, and in the mean time to keepe him in that reſtraint, that hee can neither know what you have objected, nor hath liberty to make his an<g ref="char:EOLhyphen"/>ſwer thereunto.</p>
+                  </body>
+               </floatingText>
+               <p>All which and much more that might be ſaid, proves ſubſtantially that the reſiſting, not a good King, but a King be he good or bad (though by the Ordinance of them who call themſelves a Parliament) is a reſiſting the Ordinance of God, that the impriſoning of King, under what ſpecious pre<g ref="char:EOLhyphen"/>tences ſoever couched, is unlawfull, and the depoſing him, and diſpoſing his kingdome without him, damnable accor<g ref="char:EOLhyphen"/>ding to the law of God: what they are according to the law of this land. Iudge <hi>Ienkins</hi> clearly holds forth unto us in his laſt Remonſtrance at the barre of the Houſe of Com<g ref="char:EOLhyphen"/>mons.</p>
+               <p>To conclude this point, this ſecond duty of Obedience to Kings, is by all true ſubiects faithfully and loyally to be performed, being a duty neceſſary for two reſpects:
+<pb n="33" facs="tcp:114840:19"/> 1. <hi>Neceſſitate praecepti:</hi> 2. <hi>Neceſſitate finis:</hi> Firſt God by manifold precepts commanded Obedience to bee given to Rulers and Kings. Secondly, by the benefit Government affords, without which all Common-wealths were mo<g ref="char:EOLhyphen"/>thers of common woes, and would become the very ſham<g ref="char:EOLhyphen"/>bles and ſlaughter-houſes of Chriſtian blood, if that obedi<g ref="char:EOLhyphen"/>ence were not given to Rulers that beare the ſword. The kingdom of hell (which is the kingdom of confuſion) can<g ref="char:EOLhyphen"/>not ſtand,<note n="*" place="margin">Mar. 3.22, 26.</note> being divided (wanting <hi>Belzebub</hi> their Prince) but ſhould preſently, as one day it ſhall moſt certainly come to deſolation. Seeing therefore obedience to Kings is a du<g ref="char:EOLhyphen"/>ty ſo neceſſary for al ſubjects, and acceptable unto God, pro<g ref="char:EOLhyphen"/>fitable unto our ſelves, without which Kings or Kingdoms cannot ſtand, Church or Common-weale cannot long continue: Let us performe and practiſe this duty of obedi<g ref="char:EOLhyphen"/>ence with a pure conſcience, which for conſcience ſake muſt be performed, evermore honouring and obeying our, dread Soveraigne, (the golden head of great Britane) beſeeching God to reſtore him to his glory, and to pierce with ſharp arrows, the hearts of his enemies, as the Pſalmiſt of <hi>Solo<g ref="char:EOLhyphen"/>mons</hi> Pſal. 45.5. evermore obeying and praying, <hi>God ſave King</hi> Charles.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <p>THere are three other dutyes which are to be performed by ſubiects to the King; honour, faithful ſervice, tribute; three as eſſentiall flowers of the crown as the former two, as I could eaſily prove, and ſhall if any be ſo bold as to deny it, but at this time I reſpite to ſpeak ſo largly of them as <hi>I</hi> might, becauſe I do not affect prolixity, nor would bee
+<pb n="34" facs="tcp:114840:20"/> tedious to my Reader; of each of them then a word or two only.</p>
+               <p>The firſt is Honor; Saint<note n="a" place="margin">1 Pet. 2.17.</note> 
+                  <hi>Peter</hi> commands all Subjects; Fear, God, Honour the King. Saint<note n="b" place="margin">Rom. 13.7.</note> 
+                  <hi>Paul</hi> exhorting all to ſubmit themſelves to the higher powers, concludeth, Give honour to whom ye owe honour: ſo the Lord himſelfe in the fifth Commandement chargeth all to honor Father and Mother; in which precept as moſt old and new writers well obſerve, Kings and Magiſtrates are underſtood, be<g ref="char:EOLhyphen"/>ing politicall Fathers, Fathers of the Common-wealth,<note n="c" place="margin">Eſay 49.23.</note> Nurſing Fathers of Gods Church and people. And this duty (to honor the King) obligeth all by a three fold bond.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Ex Praecepto</hi>
+                        </cell>
+                        <cell>By Commandement,</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ex Maledicto</hi>
+                        </cell>
+                        <cell>By Puniſhment,</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ex Praxi.</hi>
+                        </cell>
+                        <cell>By Practiſe.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <note place="margin">Math. 21.21. d</note>Firſt by Precept, God in his law hath commanded it. Secondly by Puniſhment, for God hath put a ſword in their hands to cut off ſuch as diſhonor them. Thirdly by Practiſe, our Lord and Saviour with his Diſciples did preach and practiſe obedience, honor, and reverence, evermore to bee given to Kings and Potentates. And this word honor, ſignifieth all that duty whereby the renown, dignity, re<g ref="char:EOLhyphen"/>verence, and high eſtimation of the King may be preſerved and unblemiſhed, and it reacheth unto our thoughts, words and works.</p>
+               <p n="1">1 To honour him in our hearts and thoughts: curſe not the King, no not in thy thought, for the fowles of the heaven ſhall carry thy voice, and that which hath wings ſhall diſcover the matter, ſaith<note n="d" place="margin">Eccle. 10.20.</note> 
+                  <hi>Solomon.</hi>
+               </p>
+               <p n="2">2 Honour him in thy words, ſeeke not by bad and wic<g ref="char:EOLhyphen"/>ked ſpeeches to diſeſteeme the dignity of their ſacred per<g ref="char:EOLhyphen"/>ſons, for they are Gods Deputies, and he that deſpiſeth the Deputy, deſpiſeth him that appointed the Deputy: where<g ref="char:EOLhyphen"/>fore God made an expreſſe Precept,<note n="e" place="margin">Exod. 22.28.</note> Thou ſhalt not ſpeake
+<pb n="35" facs="tcp:114840:20"/> evill of the Ruler of thy people. And S<hi rend="sup">t</hi>.<note n="f" place="margin">Iude 8</note> 
+                  <hi>Iude</hi> hath marked thoſe for filthy dreamers, who deſpiſe Governement, and ſpeak evill of them that are in authority.</p>
+               <p n="3">3 Honour the King in all thy actions, to be ready to de<g ref="char:EOLhyphen"/>fend the honour and renowne of our gracious Soveraigne, both by word and ſword.</p>
+               <p>And indeed all good people did ever honour their a<g ref="char:EOLhyphen"/>nointed Soveraignes: <hi>David, Solomon,</hi>
+                  <note place="margin">N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xt God, we muſt honour thoſe who are in the place of God.</note> with the reſt of the Kings of Iſrael, how honourable and glorious ever account<g ref="char:EOLhyphen"/>ed in the eyes of their Subjects. <hi>Ierome</hi> ſaith, where honour is abſent, there contempt is preſent, and to contemne theſe regall children<note n="k" place="margin">Pſalme 81.6.</note> of the moſt High, is to contemne the moſt High himſelfe.</p>
+               <p>Thinke then of this ye flattering <hi>Pſeudoli</hi> of the Papall Myter, and ye Paraſiticall Sycophants of the two Houſes at Weſtminſter; you that would have the Regall Scepter ſtoop to the Popes Myter or Parliaments Mace; you that e<g ref="char:EOLhyphen"/>very way both by your pen and your prate labour to diſpa<g ref="char:EOLhyphen"/>rage the Sacred perſons of Kings, diminiſh their Regall Rights, and encroach upon their Prerogatives, ſubſtituting all to a Papall Supremacy, or a Parliament Priviledge, and make all good by armes, not arts, by blood, not the Bible; ye Machiavells of the Conclave and worſe of the cloſe Committee; learn of God himſelfe; with what Honourable Titles and High Prerogatives in his Sacred word Kings ſtand poſſeſſed: there they are called<note n="l" place="margin">Pſ. 82.6.</note> Gods, and Children of the moſt High, the<note n="m" place="margin">1 Chr. 4.18.</note> Lords Anointed, the Angels<note n="n" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 1.20.</note> of God, the<note n="o" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.17.</note> Light of Iſrael<note n="p" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 3.1.</note> ſitting in Gods Throne,<note n="q" place="margin">R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 4.</note> the Higher Powers, the Miniſters of God,<note n="r" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.25.</note> the Kings of N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tions that beare rule; every where with variety of ſuch high and ſtately Titles, great Prerogatives, commanding every<note n="ſ" place="margin">Rom. 13.1.</note> Soule to be ſubject to them, that he who ſhould go about to empaire their honour, muſt firſt infringe the Book of God.</p>
+               <p>Vnworthy is that Creature to breath the Ayre, which denies honour to the breathing Image of God, his anointed Soveraigne; or with unreverent Action, or Elocution, en<g ref="char:EOLhyphen"/>terprize
+<pb n="36" facs="tcp:114840:21"/> to debaſe their Soveraignety: Such tongues are worthy with <hi>Dives</hi> to be tormented, or with <hi>Progne</hi> to be cut out, or w th <hi>Nicaenors</hi> to be divided in crummes for Birds that will not honour with tongues, and reverence with hearts their anointed and appointed Kings, the earth<g ref="char:EOLhyphen"/>ly Pictures of the King of Kings. And not to travel ſo far as forraigne climates to teach them (to honour Kings) let our ſpeech be bounded within the circumference of his High<g ref="char:EOLhyphen"/>neſſe Countries. People (above all other Nations) bound to honour and obey our gracious Soveraigne. We are bleſt with a King of incomparable vertues, <hi>Rex natus &amp; ad regna natus,</hi> deſcended of bloud royall:<note n="t" place="margin">Eccleſ. 10.17.</note> A bleſſedneſſe to a K ngdome, when a King is the Sonne of Nobles, and much more of noble vertues, A truſty defender of the true faith, by pen, pike, and priſon, ready to defend Religion againſt both ſuperſtition, and this Ages prophaneneſſe.</p>
+               <p>I am unable and unfit to draw the map of our Kings perfections, <hi>De ipſo ipſi loquuntur Antipodes;</hi> not any Zone hab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>table wherein his glory hath not habitation: and they ſay we muſt praiſe a King as we honour God, and herein ſuch plenty of praiſe is offered, that—<hi>Inopem me copia fecit.</hi>
+               </p>
+               <p>
+                  <hi>Xenophon</hi> might ſee that in our vertuous King <hi>Charles</hi> which he wiſhed in his King <hi>Cyrus: O fortunates Anglos bona ſi ſua norint;</hi> Oh happy had we been, had we been but ſenſible of, and thankfull for our happineſſe: and nothing can reſtore happineſſe to us, but his being reſtored to his former Honour and Glory, that hee and his for the future may ſhine in their priſtine luſtre. And lot all faithfull Sub<g ref="char:EOLhyphen"/>jects pray, long may CHARLES the glorious Candle of this our Iſrael laſt, who as upon this day was proclaimed with infinite joy, received with peaceable entry, enthro<g ref="char:EOLhyphen"/>ned with glorious inveſture. But converted or confoun<g ref="char:EOLhyphen"/>ded be all thoſe his Subjects, that refuſe to pray for him, o<g ref="char:EOLhyphen"/>bey him, and honour him, as well in deeds as words, hearts as tongues, ſaying and praying, <hi>God ſave the King.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="37" facs="tcp:114840:21"/>
+               <head>CHAP. VII.</head>
+               <p>THe fourth duty of Subjects, to be duly rendred and tendered to their anointed Soveraignes, is Loyall and faithfull ſervice, thinking themſelves (as <hi>Tiberius</hi> ſaid of his people) <hi>Homines ad ſorvitutem nati,</hi> Men borne to doe them ſervice; All true Subjects are bound by the Lawes of God and men, to be faithfull ſervants to their Soveraignes; and if they neglect or reject this duty, I may ſay to them as<note n="a" place="margin">1 Sam. 26.15, 16.</note> 
+                  <hi>Da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id</hi> did to <hi>Abner,</hi> Ye be worthy to die, becauſe ye have not kept your Maſter the Lords Anointed, becauſe you have not been faithfull Servants to your Anointed Sove<g ref="char:EOLhyphen"/>raignes.</p>
+               <p>If any<note n="b" place="margin">
+                     <hi>Eſt.</hi> 2.21.22.</note> 
+                  <hi>Bigchan</hi> or <hi>Tereſh</hi> ſeek to lay hands on our graci<g ref="char:EOLhyphen"/>ous Sov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raigne, with faithfull <hi>Mordecai</hi> and <hi>Eſter,</hi> ſpeedi<g ref="char:EOLhyphen"/>ly prevent it by revealing it: if any King of<note n="c" place="margin">2 Kin. 6.12.</note> Aram takes counſell with his Servants againſt the King of Iſrael, with faithfull <hi>Eliſha</hi> reveale it to your <hi>Caeſar,</hi> even the words he ſpeakes in his Privy Chamber; nay, not only reveale it, but revenge it; <hi>Jn reos Majeſtates &amp; publicos Hoſtes omnis homo miles eſt</hi> (ſaith<note n="d" place="margin">Ter. Apo. c. <hi>2.</hi>
+                  </note> 
+                  <hi>Tertullian</hi>) againſt traytors and publike e<g ref="char:EOLhyphen"/>nemies every man is a Souldier; yea, in this kind and ſence, we may and muſt with<note n="e" place="margin">1 Kin. 22.11.</note> 
+                  <hi>Zedekiah</hi> make hornes of iron, to puſh theſe treacherous Aramites untill wee have conſumed them, give couragious reſiſtance to treacherous violence, untill they have received deſerved doome by Iuſtice. And for the performance of this Loyall ſervice to their appoin<g ref="char:EOLhyphen"/>ted Soveraignes, no conditions of men under the Sun can plead immunity: neither Popes, Prieſts, nor people; yea, a Parliament much leſſe a part of a part of a Parliament, can<g ref="char:EOLhyphen"/>not pretend to this Priviledge, how ever that Claw-backe Sycophant, the Author of the <hi>Vindicia contra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ty cannot,</hi> by thoſe his ſpecious pretences, but moſt falſe and Rebellion-countenancing principles, would ſeem to inſinuate ſuch a priviledge their propriety, like a right Machievell prepa<g ref="char:EOLhyphen"/>ring the people by thoſe gilded Pills to ſwallow thoſe poy<g ref="char:EOLhyphen"/>ſonous
+<pb n="38" facs="tcp:114840:22"/> principles of treaſon and rebellion, according to w his Maſters have, and (if God prevent them not) intend to act. No, no, ſay hee and others what they will, none, upon what pretences ſoever, can plead an exemption from perfor<g ref="char:EOLhyphen"/>mance of this duty. Lords or Commons, Popes, or Cardi<g ref="char:EOLhyphen"/>nalls, Preiſts or People; their freedome from faithfull ſer<g ref="char:EOLhyphen"/>vice to the King hath no warrant except from the Prince of the Aire, to whom they may be juſtly ſaid to dedicate their Scepter and ſervice, who deny their ſervice to the King, and therefore to him I leave ſuch to receive their deſerved wages. But the ſervants of the King of Kings know they owe their ſervice and allegiance to his Vicegerents, Kings on earth, and that this loyall ſervice of the members unto the royall and Princely Head, ought to be dutifull, faithfull and perpetuall; that is the happy ſervice, which comes from an hearty obedience; for many things may ſeem ſo in apparence, which are not ſo in eſſence: 'tis the prac<g ref="char:EOLhyphen"/>tiſe and very prayers of the wicked to cry thus: <hi>Hor.</hi> 1. <hi>Epist.</hi> 16.</p>
+               <q>
+                  <l>Da mihi fallere, da juſtum, ſanctum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> videri,</l>
+                  <l>Noctem peccatis, &amp; fraudibus objice nubem.</l>
+               </q>
+               <p>If they ſeem truſty in ſhew, though treaſonable in heart, they care not, like bad ſervants, not in ſingleneſſe of heart, but with ſervice to the eye, as men-pleaſers, obey they their regall Maſters. This Age is full of ſuch treacherous hearts, as deceitefull<note n="f" place="margin">2 Sam. 3.27.</note> as <hi>Ioab</hi> to <hi>Amaſa,</hi> who tooke him aſide to ſpeak with him peaceably, and ſmote him under the fift rib that he dyed; or like<note n="g" place="margin">Macchab: 16.</note> 
+                  <hi>Dalilah</hi> to <hi>Sampſon,</hi> with faire words, and weeping to betray him to the Philiſtines: No treaſon but in truſt: The faigned voice of Fowlers catch the Partridges and Plovers: The Mother of Error puts on her maske, to be taken for the daughter of Time, truth: The Wolfe in ſheeps cloathing, ſcarce known from the ſheepheards dogge.<note n="h" place="margin">Iudges 16.18.</note> 
+                  <hi>Ptolomie</hi> the ſonne of <hi>Abuſus,</hi> under a faire vizzard of love and kindneſſe feaſting <hi>Simeon</hi>
+                  <pb n="39" facs="tcp:114840:22"/> and his two ſonnes, kills them in his banquetting houſe.<note n="a" place="margin">M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> h. 2 8.</note> 
+                  <hi>Herod</hi> when he would play the Wolfe, he counterfeited a a Foxe:<note n="a" place="margin">Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> h. 2 8.</note> 
+                  <hi>Goe and ſearch diligently for the Babe, and when yee have found him, bring mee word, that I may worſhip him;</hi> his meaning was to worry him: So<note n="b" place="margin">Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 26.4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>Iudas</hi> comes with his <hi>Ave Rabbi,</hi> Haile Maſter, betraying him with a kiſſe: So many a perfidious Traitor will cry, <hi>Ave Caeſar,</hi> God ſave the King; but it is with ſuch an affection as <hi>Auto<g ref="char:EOLhyphen"/>ninus Caracalla</hi> ſaid of his brother <hi>Geta, Sit divus, modo non vivus,</hi> Let him be a Saint or a King in heaven ſo he bee not a King on earth.</p>
+               <p>Many ſuch <hi>Iudaſes</hi> and <hi>Caracallaes</hi> there are in theſe dayes two Houſes cannot ſcarce containe them; yet there they ſit, and having firſt put out <hi>Sampſons</hi> eyes, blinded the peoples underſtanding with glorious termes, (as, We your Majeſties faithfull Servants and Loyall Subjects: and, will make you the moſt glorious King in Chriſtendome) make the miſery of both King and people their ſport and paſt time. Hee that foure yeare agoe ſhould have ſaid they had intended to ſet forth ſuch a Declaration as their laſt is, had runne the hazard of a Priſon, if he had ſcap'd the Halter, as a falſe accuſer and foule abuſer of the <hi>Simeon</hi> and <hi>Levi</hi> of theſe dayes, thoſe two holy Brethren, the Loyall Lords and Commons diſſembling at <hi>Weſtminſter.</hi>
+               </p>
+               <p>Doe you not remember what was urged unto his Maje<g ref="char:EOLhyphen"/>ſty at the beginning of this Parliament, as an Argument to induce him to paſſe the Bill againſt the Biſhops, that their ſawcy (as they tearm'd it) inference, No Biſhops no King? and pray (moſt Loyall Subjects as you are) what is it come to now? Oh my deare Countrey-men! will you ſtill be guld by ſuch groſſe and palpable Diſſem<g ref="char:EOLhyphen"/>blers, Paraſites, and Equivocaters? Beware (I beſeech you) in time of thoſe who are full of ſuch fraud, believe them as the People of <hi>Rome</hi> beleeved <hi>Carbon,</hi> make a Covenant never to believe them hereafter. They are like to <hi>Polypus</hi> have various ſhapes, changing themſelves into Angels of Light: but <hi>malus ubi ſe bonum ſimulat, tunc eſt peſsimus,</hi> a bad man when he counterfetteth to be good, is worſt, <hi>Au<g ref="char:EOLhyphen"/>guſt.
+<pb n="40" facs="tcp:114840:23"/> in Pſal.</hi> 63. <hi>Simulata ſanctitas duplex eſt iniquitas,</hi> coun<g ref="char:EOLhyphen"/>terfeit holineſſe being a two-fold wickedneſſe: of which, whether they who call themſelves a Parliament bee not guilty, I leave it to all who have eyes in their heads to judge.</p>
+               <p>But be they what they will: Let every good Chriſtian and Loyall Subject according to his place performe faith<g ref="char:EOLhyphen"/>full, hearty, and truſty Service to our dread Sveraigne; and though the wicked labour to darken, with a Cloud of ſlander our faire and faithfull Service, yet at laſt that Eclipſe of envy will vaniſh of it ſelfe, and our own inno<g ref="char:EOLhyphen"/>cency and fidelity will animate us like that <hi>Roman Ma<g ref="char:EOLhyphen"/>rius,</hi> who being accuſed by the Senate of Treaſon, in a paſſion teares his Garments, and in ſight of them all ſhews them his wounds received in the ſervice and defence of the Emperor and his Countrey, ſaying; <hi>Quid opus eſt verbis, ubi vulnera clamant,</hi> What need of words, our wounds de<g ref="char:EOLhyphen"/>clare, our bloud was ſhed for his well-fare? Faithfull ſer<g ref="char:EOLhyphen"/>vice is laudable before men, and acceptable before God; it may bee by the wicked ſometimes blamed, but it cannot be ſhamed: though it be not alwayes rewarded on earth, it ſhall be ſure to finde rewards in Heaven; yea vertue is a reward to it ſelfe: <hi>bonorum laborum glorioſus fructus,</hi> the ſervice of the<note n="*" place="margin">Eccluſ. 35.7.</note> righteous is accepted, and the remembrance thereof ſhall never be forgotten.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <p>THe fifth duty of Subjects to be duely and truely payed and performed to their ſacred and dread Soveraigns, is Tribute, which is (as <hi>Vlpian</hi> ſaith) <hi>Nervus reip.</hi> The ſtrong ſinew of the Common-wealth, without which, King, nor Kingdome cannot ſtand: And therefore our Sa<g ref="char:EOLhyphen"/>viour firſt by<note n="a" place="margin">
+                     <hi>Chriſt</hi> paid Tribute to <hi>Ty<g ref="char:EOLhyphen"/>berius Caeſar.</hi> Matth. 17.27.</note> preſident paid Tribute; yea rather than it ſhould be unpaid he wrought a miracle: and alſo by precept, reſolving the Diſciples of the Phariſees, demanding whe<g ref="char:EOLhyphen"/>ther it was lawfull to give Tribute unto <hi>Caeſar,</hi> or no? told
+<pb n="41" facs="tcp:114840:23"/> them peremptorily,<note n="b" place="margin">Mat. 22 21.</note> that they muſt give unto <hi>Caeſar</hi> that which was <hi>Caeſars: Piſcator</hi> ſaith, upon that place; Tribute, Honour, and Obedience is to bee given to the Magiſtrate in all things, not repugnant to the word of GOD: for this cauſe (ſaith<note n="c" place="margin">Rom. 13 4 6.</note> Saint <hi>Paul</hi>) ye pay Tribute, becauſe the King is the Miniſter of God:<note n="d" place="margin">Theoph. in Lucam. c. <hi>20.</hi>
+                  </note> The money which thou haſt thou haſt from him, and therefore, not give, but pay; not a gift, but a debt, which all ſubjects owe to him. <hi>Beucer</hi> ſaith, We doe not give, but pay that which of duty wee owe: Tributes, Subſidies, Taxes, <hi>&amp;c.</hi> are not gifts but debts, which of neceſſity they muſt, and ought to pay<note n="e" place="margin">Verbo redden de, ſignificat di<g ref="char:EOLhyphen"/>bitum quod in<g ref="char:EOLhyphen"/>excuſabile ſub<g ref="char:EOLhyphen"/>ditis im<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſitum eſt: Theo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i. in <hi>13</hi> Rom. v. <hi>7.</hi>
+                  </note> 
+                  <hi>Hipe<g ref="char:EOLhyphen"/>rius</hi> ſaith, This doe the Scriptures allow of, (writing there of the payment of Tributes) this doe the Civill Lawes, with the common conſent of all Nations accept, and ap<g ref="char:EOLhyphen"/>prove: The ſame<note n="f" place="margin">Hip. in Rom <hi>13</hi>
+                  </note> 
+                  <hi>Hiperius</hi> ſaith, the law and right of pay<g ref="char:EOLhyphen"/>ing Tribute, among all Nations hath ever been accuſtomed. And therefore<note n="g" place="margin">
+                     <hi>In Rom.</hi> 13 6.</note> 
+                  <hi>Calvin</hi> writes wel, that Tributes and Taxes are the lawfull revenewes of Princes.<note n="h" place="margin">Calv. in inſtit. lib. <hi>4</hi> c. <hi>20.</hi>
+                  </note> This duty of paying Tribute, Subſides, Taxes, &amp;c. by the ſubjects to the Sove<g ref="char:EOLhyphen"/>raigne, is by the law of God, and lawes of men, and com<g ref="char:EOLhyphen"/>mon cuſtomes of moſt nations commanded and approved, and that for four principall cauſes.</p>
+               <p>Firſt to mainetaine that royall eſtate which God hath given to Kings: the glorious patterns of Kings magnifi<g ref="char:EOLhyphen"/>cence, may be fully ſeen in royall <hi>Solomon:</hi> Look but upon his Throne, 2 <hi>Chr.</hi> 9.17. and you may judge of all the reſt of his royalty,</p>
+               <p n="2">2<hi rend="sup">dly</hi>. to defend the Common-wealth, both from forraign invaſions, and home-bred rebellions; which requires a great Treaſury. A great Bird had need of a great neaſt. That high Head which cares for all the politicke body, and night and day ſtudyes to preſerve their welfare, muſt participate of their wealth, without which the publike peace and ſe<g ref="char:EOLhyphen"/>curity cannot be effected: for it is, <hi>Status inſolidus qui caret ſolidis.</hi>
+               </p>
+               <p>Thirdly, to conteſtate and acknowledge their homage and ſubjection to their Soveraigne: for ſay the <hi>Canoniſts,</hi>
+                  <note n="i" place="margin">Extra de ex<g ref="char:EOLhyphen"/>act<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> &amp; cenſ. c. <hi>1.</hi> &amp; quaeſt: <hi>8.</hi> can. Tributum.</note> To pay Tribute is to bee ſubject to the Emperour, and a
+<pb n="42" facs="tcp:114840:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="43" facs="tcp:114840:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="42" facs="tcp:114840:25"/> ſigne of ſervitude, confeſſing all duty and loyalty to be due to their Soveraigne, who hath power to command them, their<note n="*" place="margin">Nehem. 9.37.</note> goods,<note n="*" place="margin">Nehem. 9.37.</note> lands, and lives, for the ſervice of the Kings and countries preſervation. Looke upon the Iſrae<g ref="char:EOLhyphen"/>lites (when King <hi>Saul</hi> was dead) comming to elect and anoynt <hi>David</hi> in <hi>Hebron,</hi> to be King over Iſrael,<note n="*" place="margin">1 C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ro. 11.1.</note> Behold we are thy bones and thy fleſh, meaning (as take it) that their lives, and all, were at his ſervice and commandement: for Tribute is not only of money, but <hi>ſudor &amp; ſanguis popu<g ref="char:EOLhyphen"/>li,</hi> The ſweat and blood of the people, if ſuch need require to defend their King and Countrey, is a Tribute due from them, willing and ready to adventure their lives and l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbs, to give repulſe and reſiſtance to forraigne or domeſticall violence.</p>
+               <p>Fourthly, to teſtifie their gratefull affections to their gracious Pri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces, in thankefullneſſe for the great benefits by their prudent, provident, and politicke Government, reaped and received. So <hi>David</hi> in lamenting <hi>Sauls</hi> death, remembers the benefits his ſubjects received by him in his life time,<note n="k" place="margin">2 Sam. 1.14.</note> Yee daughters of Iſrael weepe for <hi>Saul,</hi> which cloathed you in ſcarlet with pleaſures, and hanged orna<g ref="char:EOLhyphen"/>ments of gold upon your apparel. So<note n="l" place="margin">Lament. 4.20.</note> 
+                  <hi>Jeremiah</hi> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the good King <hi>Ioſiah,</hi> lamenting his death, The breath of our no<g ref="char:EOLhyphen"/>ſtrels, the Anoynted of the Lord, was taken in their nets, of whom we ſaid, under his ſhadow wee ſhall be preſerved among the Heathen. A good King, brings many bleſſings and benefits unto his people; and therefore when ſuch as are in authority, be righteous, the people rejoyce, ſaith<note n="m" place="margin">Prov. 29.2.</note> 
+                  <hi>Solo<g ref="char:EOLhyphen"/>mon.</hi>
+                  <note n="n" place="margin">4.</note> A King by judgement maintaines the country. By a man of underſtanding and knowledge, a Realme endu<g ref="char:EOLhyphen"/>reth long, ſaith the ſame<note n="o" place="margin">Prov. 28.2.</note> 
+                  <hi>Solomon;</hi> yea, (as wiſe <hi>Plato</hi> wel ſaid) <hi>Beatas fore reſp. cum ant Philoſophentur reges; aut reg<g ref="char:EOLhyphen"/>nent Philoſophi:</hi> When as Kings were Philoſophers, or Philoſophers Kings, then ſuch Common-wealths ſhould be happy. And indeed all earthly happineſſe which is de<g ref="char:EOLhyphen"/>rived to the members, proceeds from the Head, (next un<g ref="char:EOLhyphen"/>der God, the primary Author of all good things) by whoſe direction, diſcretion, circumſpection, care, counſell, and
+<pb n="43" facs="tcp:114840:25"/> continuall vigilancy, they are preſerved in peace, and proſ<g ref="char:EOLhyphen"/>per in plenty, and whether we did not enjoy all bleſſings which Subjects could hope for under His Majeſties reign, before this Parliament ſet themſelves to pull him downe, I leave all Engliſh men (that are not prepoſſeſſed with pre<g ref="char:EOLhyphen"/>judice to Monarchy and partiality to a ſide) to judge: what a condition we have been ſince in, too ſad experience can teſtifie. Oh then my deare Countrey-men, let no <hi>Theu<g ref="char:EOLhyphen"/>das</hi> herein deceive you, or any <hi>Iudas</hi> of <hi>Galile</hi> (who in the dayes of the Tribute, drew away much people, as<note n="a" place="margin">Acts 5.37.</note> 
+                  <hi>Gamaliel</hi> ſpeaks) delude you; for hee periſhed, and all that obeyed him: and as our Saviour ſaid of them, ſo I may ſay of this Nation in this matter, except ye repent of this ſinne you ſhall all likewiſe periſh<note n="b" place="margin">Aug. in lib. i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Rom propoſit. <hi>7 2</hi>
+                  </note> 
+                  <hi>Auguſtine</hi> ſaith, If any one thinke Impoſts, Tribute and Honour ought not to bee paid to the King, hee falls into a great errour:<note n="c" place="margin">B Aretii Com. in <hi>13</hi> Rom. v <hi>7.</hi>
+                  </note> 
+                  <hi>Aretius</hi> ſaith, We owe them by right, if we doe not pay them we offend againſt the rule of Iuſtice: Nay to pay them is ne<g ref="char:EOLhyphen"/>ceſſary for all, (as the ſame <hi>Aretius</hi> there) unleſſe they would be deprived of their Fortunes, Wealth, and Well<g ref="char:EOLhyphen"/>fare: Therefore pay it truely, and doe it heartily, as to the Lord, and not unto men; not grudgingly, as if compelled by neceſſity, but cheerefully and voluntarily in humble te<g ref="char:EOLhyphen"/>ſtimony of your hearty fidelity, love, and loyalty. But to them that challenge immunity from the performance of theſe publique Debts of Tributary duties to their Liege Lords and Kings, I may ſay as <hi>Diocleſian</hi> to the Philoſo<g ref="char:EOLhyphen"/>pher; Thy Profeſſion differs from thy Petition, thy Pro<g ref="char:EOLhyphen"/>feſſion teaches thee to give <hi>Caeſar</hi> his due, and not to robbe him of his right. Biſhop <hi>Latimer</hi> calls ſuch Theeves that rob the King of his due debt, Subſidies, Tribute, or Taxes. Rather imitate that<note n="d" place="margin">Ambroſ. con. ra Aux<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>: <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> quaeſt. <hi>1.</hi> Can: ſi tribis<g ref="char:EOLhyphen"/>tum.</note> 
+                  <hi>Ambroſe</hi> the famous Biſhop of Mil<g ref="char:EOLhyphen"/>lan, who teacheth thee a better Leſſon; If the Emperour demand Tribute, wee doe not deny it, the fields of our Church ſhall pay Tribute; If the Emperor demand the fields, hee hath power to challenge them, let him take them, I neither give them nor deny them in no caſe, ar<g ref="char:EOLhyphen"/>guing obedience in ordinary, or extraordinary exactions:
+<pb n="44" facs="tcp:114840:26"/> agreeing fully with <hi>Luther,</hi>
+                  <note n="e" place="margin">Luth. in Matt: <hi>22.21.</hi>
+                  </note> If thy ſubſtance, body, or life ſhould be taken from thee by the Magiſtrate, thou maiſt ſay thus, I doe willingly yeeld them unto you, and ac<g ref="char:EOLhyphen"/>knowledge you for ruler over mee, I will obey you, but whether you uſe your Power and Authoritie well or ill, ſee you to that: For Kings muſt one day give account of all their workes, to the King of Kings; and if they have abuſed their Power by Tyranny, Cruelty, or any bad Government, an hard judgement<note n="f" place="margin">Wiſd. 6.5.8.</note> ſhall ſuch have that beare ſuch Rule, for then abides the ſorer Triall, as the Sonne of Wiſedome ſpeaks; The power is from God, the abuſe of it from themſelves, and they will finde it, when God and it calls them to reckon. The Chain of gold is not made the worſe becauſe an Harlot weares it about her neck: it is<note n="g" place="margin">Luth. in Mat: <hi>2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.21.</hi>
+                  </note> 
+                  <hi>Luthers</hi> compariſon in this caſe; ſo ſtill Kings muſt be obeyed for Conſcience ſake, if not commanding contrarie to Gods Commandements, Let us with theſe follow the ſteppes of faithfull <hi>Fabricius,</hi> of whoſe fidelity <hi>Pyrrhus</hi> boldly ſpeakes, <hi>Difficilius Fabricius a legalitate, quàm ſol a ſuo curſu verti poſſit;</hi> Let the Sunne firſt turne from her Courſe, than we from the courſe of Loyall Obedience, and Allegiance: alwayes remembring that Chriſtian ſaying of that martyr<note n="h" place="margin">Ignarepi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>: <hi>2.</hi> d Magn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſianos. a</note> 
+                  <hi>Ignatius,</hi> No man ever lived unpuniſh<g ref="char:EOLhyphen"/>ed, which lifted up himſelfe againſt his betters, ſuperiours, his Princes; diſobedience brings Infamy, diſgrace, death, yea hatred after death, that the ſorrowfull Sonne may ſay of his treacherous Sire,<note n="i" place="margin">Gen. 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.30.</note> Yee have troubled me, and made me ſtinke among the Inhabitants of the Land, as <hi>Iacob</hi> ſaid of <hi>Simeon</hi> and <hi>Levi:</hi> And whether we of this Kingdome have not too juſt cauſe to ſay of thoſe two Brothers in ini<g ref="char:EOLhyphen"/>quity, the factious Party of the Lords and Commons ſit<g ref="char:EOLhyphen"/>ting in Parliament, you have made us (by your procee<g ref="char:EOLhyphen"/>dings) ſtinke in the Noſtrills of all neighbour Nations, and rendred us the ſcorne and contempt of the whole World, I leave it to the experience of Travellers.</p>
+               <p>To conclude, l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t us alwayes from the bottome of our hearts,<note place="margin">1 Prayer.</note> pray ſo the Kings ſafety Corporally; for his ſalva<g ref="char:EOLhyphen"/>tion Spiritually, and preſervation Politically. Let us o<g ref="char:EOLhyphen"/>bey
+<pb n="45" facs="tcp:114840:26"/> him becauſe he is the Lords Anointed,<note place="margin">2 Obedience.</note> appointed by God to be his Vicegerent, repreſenting the perſon on earth, of the King of Kings in heaven:<note place="margin">3 Honour.</note> Let us honour him not with lips only, but with hearts truely, becauſe he is the Fa<g ref="char:EOLhyphen"/>ther of our Countrey, the conſtant Defender of the Faith, and ſo worthy of double Honour:<note place="margin">4 Service.</note> Let us bee ready to per<g ref="char:EOLhyphen"/>forme at his Command our beſt Service, being his native and naturall Subjects, born and bound by Allegiance to all Chriſtian duties of Subjection.</p>
+               <p>Let us be willing to pay Tribute:<note place="margin">5 Tribute</note> a publike Purſe muſt helpe the publike Peace,
+<q>Multorum manibus grande levatur onus.</q>
+               </p>
+               <p>Yea let us pay him his duty: Tribute to him, for we owe him Tribute; Cuſtome to him, for we owe him Cuſtome; Feare, Honour, Obedience, Service, and all other loyall ſer<g ref="char:EOLhyphen"/>vices and performances of Duties belonging to good Sub<g ref="char:EOLhyphen"/>jects in their ſeverall degrees and places, humbly to tender them, and render them unto our Gracious and high Sove<g ref="char:EOLhyphen"/>raigne Lord the King, whoſe Sword, Crowne, Scepter, Throne and Perſon juſtly requires all theſe duties: the Sword exacts obedience, Crown commands honour, Scep<g ref="char:EOLhyphen"/>ter ſervice, Throne tribute, and Perſon prayer; alwayes powring forth to God this Prayer and Petition, <hi>God ſave King</hi> CHARLES: Let us be in <hi>Pace Lepores,</hi> but in <hi>Praelio Leones,</hi> in Peace like Hares timerous to off<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd his Majeſty in any way of diſobedience: but like Lions, when oppor<g ref="char:EOLhyphen"/>tunity ſhall be offered, fight for his freedome and re-eſtab<g ref="char:EOLhyphen"/>liſhment in his Throne and Power, againſt all the enemies thereof with unwearied courage, undaunted magnanimity, joyning with our fighting hands, our fervent prayers like faithfull Iſraelites againſt all rebelling Amalekites, conti<g ref="char:EOLhyphen"/>nually let us pray with <hi>David, Pſalme</hi> 20.9. <hi>Domine ſal<g ref="char:EOLhyphen"/>vum fac Regem,</hi> Lord ſave the King, ſend him an happy Deliverance out of all his troubles, viſit him with much comfort now after the time that thou haſt afflicted him, and the yeares wherein he hath ſuffered ſuch great adver<g ref="char:EOLhyphen"/>ſity,
+<pb n="46" facs="tcp:114840:27"/> Lord keep him as the Apple of thine owne eye, and hide him under the ſhadow of thy wings: oh turne not thy face away from thine Anointed, but let him be refre<g ref="char:EOLhyphen"/>ſhed with the joy of thy Countenance: Make his dayes as the dayes of heaven before thee, and grant that his Highneſſe and his Princely Poſterity may in theſe King<g ref="char:EOLhyphen"/>domes reigne ſo long as the world endureth, maugre all thine and his enemies: Enlarge and enrich his Royall heart with all Regall gifts and divine graces, ſutable for his preſent ſad condition, and yet high calling: ſave him from the Treachery and tyranny of forraigne enemies, and deliver him from the Plots and Projects of his Domeſti<g ref="char:EOLhyphen"/>call Adverſaries, whom wee beſeech thee to cloath with ſhame, and break in peeces like a Potters Veſſell: Let thy hands, oh Lord, finde out all that hate him, make them like a fiery Oven in the time of thine Anger, and deſtroy them in thy Wrath: ſcatter the devices of thoſe crafty ones, and make all their Councells like the Councell of <hi>A<g ref="char:EOLhyphen"/>chitophell,</hi> fooliſhneſſe: confound thoſe <hi>Shebaes</hi> that ſtirre up Iſrael againſt our <hi>David,</hi> thoſe <hi>Shimeis</hi> that revile and raile upon our <hi>Charles,</hi> and thoſe <hi>Adoniahs</hi> that goe about to take the Kingdome from our King; yea let all like them, periſh like them. Then will all Loyall Subjects rejoyce when they ſee the vengeance, the ſtone which is cut with<g ref="char:EOLhyphen"/>out hands breaking all Rebells and Traitors to pieces, <hi>Dan.</hi> 2.34. and making all his foes his footſtoole: but upon him and his grant that his Crowne may flouriſh, that his ſeed may poſſeſſe the gates of their Enemies, and that there may not want one of his Poſterity to ſit upon his Throne and ſway his Scepter till <hi>Shilo</hi> come in judgment. And now let all good Chriſtians and Loyall Subjects ſay Amen. Yea let high and low, rich and poore, young and old, profeſſors of the Goſpel, be devoted Suppliants to the King of Kings in our Kings behalfe, with tongues and hearts praying and ſaying, <hi>God ſave our King, God ſave King</hi> Charles.</p>
+               <closer>Vivat, valeat, Vincat.</closer>
+            </div>
+            <closer>Gloria Tri-uni Deo in ſecula. <hi>Amen.</hi>
+            </closer>
+         </div>
+         <div type="afterword">
+            <pb facs="tcp:114840:27"/>
+            <head>Poſtſcript.</head>
+            <p>THis Treatiſe is dedicated to none (the diſcoverer of theſe truths being unwilling to engage any particular Patron) yet deſires it may be accepted of all of what degree or rank ſoever both in Church and State, if ſound members of our Supreame Head; to ſuch I am confident this ſhort tract will be welcome; therefore to ſuch it preſents it ſelfe, and in the diſcoverers abſence begs their entertainement, though there be danger, to be found in its company: The cauſe of his diſcovery of theſe dangerous, though faithfull truths, and that ſo plainly and home, is the deſire hee hath to undeceive his deceived country men, to diſcharge his duty, and to render thoſe who are guilty (if they wilfully perſiſt therein) inexcuſable, that when they come before the throne of the King of Kings, they may have no plea of ignorance, of the greatneſſe and dam<g ref="char:EOLhyphen"/>nableneſs of their ſin, but that they may know there hath been a Prophet among them.</p>
+            <p>The cauſe of his forbearing his name, is his charity to them who are reproved therein (that they may not bee deeper engaged in blood and oppreſſion, for he too well knowes their common way of refuting ſuch truths, impriſonment or death) and not either in ability to make good all herein contained, or timidity to stand to his principles: for ſhould their unſatiable thirſt after blood, by the diligence of their blood hounds or ſubtilty of their ſpies make them ſo unfortunately ſuccesfull as to diſcover him, you ſhall find him ſo reſolved as to ſeale this truth with his life (if
+<pb facs="tcp:114840:28"/> their fury carry them to that height of tyranny) or by what other oppreſſion and cruelty ſoever they ſhall uſe, to anſwer <hi>This</hi> un<g ref="char:EOLhyphen"/>anſwerable aſſertion, That the reſiſting, much more impriſon<g ref="char:EOLhyphen"/>ing and depoſing King <hi>CHARLES,</hi> and diſpoſing of his king<g ref="char:EOLhyphen"/>dome, without and againſt him is a ſinne not only unlawfull but damnable, by the word of God.</p>
+            <p>What kind of ſin it is by the law of this land, Iudge <hi>Ienkins</hi> plainly tels them in his Remonſtrance of the <hi>21</hi> of February, <hi>1647.</hi> I am confident both that and this ſhall have one and the ſame refutation that common way of anſwering of ſuch aſſerti<g ref="char:EOLhyphen"/>ons ſet forth in the 7th. page of this ſhort tract: And truly I ſhall have no other opinion of them till they anſwer that Remon<g ref="char:EOLhyphen"/>ſtrance, and permit him againe to make and publiſh his Reply: but this I beleeve they will, with more ſafety to their hopefull cauſe, and bleſſed Reformation, doe, firſt hang him, and then anſwer him: for ſo they ſhall ſave him a labour of a Reply, and may come off with credit, having (as they may then vaunt) ſilenc'd that good old Iudge: And what Ingenuous Intelligent breaſt can entertaine better thoughts of them, or hope for o<g ref="char:EOLhyphen"/>ther proceedings from them, if it ſeri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſly conſider thoſe daily Reproachfull Reviling Aſperſions by their ſawcie Pamphleters caſt upon His Sacred Majesty, to the aliena<g ref="char:EOLhyphen"/>ting of the Affections of His People from him: which they permit, yea countenance, if not themſelves Order to bee publiſhed; ſo to ſlander the foot-ſteps of the Lords Anoin<g ref="char:EOLhyphen"/>ted, and render him odious in the eyes of his Subjects: and yet keep his Majeſty in ſuch a condition as not permitted to vindicate himſelfe, and threaten, yea thunder out fire and faggot agai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt all others that ſhall Write or ſpeake in his Vindication? What truely enobled ſoule and rightly enlightned Christian can m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke any fairer Conſtruction of ſuch unjuſt practiſes? If th y would have us harbour other Cogitations; let them cauſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Overton</hi> to bee taken int<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cuſtody, and recei e con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igne <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>niſhment; for, for him was Prin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, mali<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, venemous<note n="*" place="margin">P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>liſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Letter pretended to be ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t from His Majesty to the Queene, but intercepted, together with thoſe b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y<g ref="char:EOLhyphen"/>ſonous aſperſions fixt upon his Majeſty by way of certaine Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>poſalls
+<pb facs="tcp:114840:28"/> to the Kingdome: All publiſhed in a Pamphlet ſtuft with as much falſhood, forgerie, yea gall and poyſon of Aſpes, as could be ſpet from the envenomed mouth of the moſt reviling Shimei, or railing <hi>Rabſhakeh</hi> of this Kingdome, to the Repro<g ref="char:EOLhyphen"/>ching, Slandering, and Diſgracing of a <hi>David</hi> and <hi>Heze<g ref="char:EOLhyphen"/>kiah</hi> in one good King <hi>Charles:</hi> to whom the Lord of his mer<g ref="char:EOLhyphen"/>cy grant the ſhield of faith in him and his goodneſſe, to repell the fiery Darts of ſuch incarnate Devills, from whoſe tongues, ſet on fire of Hell; and Pens, dipt in the gall of bitterneſſe, yea from the preſent ſad Reſtraint in which he now is, The Lord of Heaven, and God of His Conſolation and Confidence ſpee<g ref="char:EOLhyphen"/>dily deliver him. <hi>Amen, Amen,</hi> doe all the Loyall hearted of Great <hi>Britane</hi> ſay; and theref re have deſired that th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their Vote bee ſpeedily Printed and Publiſhed, and Coppies thereof diſperſed into all parts of Great <hi>Britane,</hi> for the begetting a right underſtanding b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>twixt His Majeſty and all His Subjects.</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
